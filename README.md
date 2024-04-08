@@ -32,7 +32,6 @@ Happy coding!
 | The Hurdle Race | [C++](./HackerRank/Algorithms/Implementation/TheHurdleRace.hpp) | Easy | [here](-) |
 | Utopian Tree | [C++](./HackerRank/Algorithms/Implementation/UtopianTree.hpp) | Easy | [here](-) |
 | Viral Advertising | [C++](./HackerRank/Algorithms/Implementation/ViralAdvertising.hpp) | Easy | [here](-) |
-
 | Between Two Sets | [C++](./HackerRank/Algorithms/Warmup/BetweenTwoSets.hpp) | Easy | [here](-) |
 | Bill Division | [C++](./HackerRank/Algorithms/Warmup/BillDivision.hpp) | Easy | [here](-) |
 | Birthday Cake Candles | [C++](./HackerRank/Algorithms/Warmup/BirthdayCakeCandles.hpp) | Easy | [here](-) |
