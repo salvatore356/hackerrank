@@ -17,6 +17,7 @@
 #include "Implementation/SherlockAndSquares.hpp"
 #include "Implementation/LibraryFine.hpp"
 #include "Implementation/EqualizeTheArray.hpp"
+#include "Implementation/AppendAndDelete.hpp"
 
 
 #endif /* Algorithms_hpp */

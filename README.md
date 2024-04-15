@@ -18,6 +18,7 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
+| Append And Delete | [C++](./HackerRank/Algorithms/Implementation/AppendAndDelete.hpp) | Easy | [here](-) |
 | Angry Professor | [C++](./HackerRank/Algorithms/Implementation/AngryProfessor.hpp) | Easy | [here](-) |
 | Beautiful Days At The Movies | [C++](./HackerRank/Algorithms/Implementation/BeautifulDaysAtTheMovies.hpp) | Easy | [here](-) |
 | Circular Array Rotation | [C++](./HackerRank/Algorithms/Implementation/CircularArrayRotation.hpp) | Easy | [here](-) |

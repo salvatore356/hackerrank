@@ -11,6 +11,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    EqualizeTheArray::test();
+    AppendAndDelete::test();
     return 0;
 }

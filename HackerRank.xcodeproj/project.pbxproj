@@ -25,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9D1DBB282BCDA0E500ACA5D7 /* AppendAndDelete.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AppendAndDelete.hpp; sourceTree = "<group>"; };
 		9D365D812BC3F5B200B0CD22 /* EqualizeTheArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = EqualizeTheArray.hpp; sourceTree = "<group>"; };
 		9D975A7C2BB813DF00B38A1E /* SubarrayDivision.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SubarrayDivision.hpp; sourceTree = "<group>"; };
 		9D975A7F2BB8161F00B38A1E /* DivisibleSumPairs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DivisibleSumPairs.hpp; sourceTree = "<group>"; };
@@ -92,6 +93,7 @@
 				9D975ACD2BBC096200B38A1E /* SherlockAndSquares.hpp */,
 				9D975B0F2BBD339500B38A1E /* LibraryFine.hpp */,
 				9D365D812BC3F5B200B0CD22 /* EqualizeTheArray.hpp */,
+				9D1DBB282BCDA0E500ACA5D7 /* AppendAndDelete.hpp */,
 			);
 			path = Implementation;
 			sourceTree = "<group>";
