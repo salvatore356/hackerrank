@@ -18,6 +18,7 @@
 #include "Implementation/LibraryFine.hpp"
 #include "Implementation/EqualizeTheArray.hpp"
 #include "Implementation/AppendAndDelete.hpp"
+#include "Implementation/ACMICPCTeam.hpp"
 
 
 #endif /* Algorithms_hpp */

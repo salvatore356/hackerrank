@@ -11,6 +11,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    AppendAndDelete::test();
+    ACMICPCTeam::test();
     return 0;
 }
