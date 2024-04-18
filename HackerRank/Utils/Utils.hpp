@@ -37,6 +37,11 @@ inline string rtrim(const string &str) {
     return s;
 }
 
+inline string trim(const string &str) {
+    
+    return rtrim(ltrim(str));
+}
+
 inline vector<string> split(const string &str) {
     vector<string> tokens;
 

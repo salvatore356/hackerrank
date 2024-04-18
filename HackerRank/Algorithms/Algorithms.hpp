@@ -20,6 +20,7 @@
 #include "Implementation/AppendAndDelete.hpp"
 #include "Implementation/ACMICPCTeam.hpp"
 #include "Implementation/TaumAndBday.hpp"
+#include "Implementation/ModifiedKaprekarNumbers.hpp"
 
 
 #endif /* Algorithms_hpp */
