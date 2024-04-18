@@ -11,6 +11,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    ACMICPCTeam::test();
+    TaumAndBday::test();
     return 0;
 }

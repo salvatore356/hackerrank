@@ -18,6 +18,7 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
+| Taum And B'day | [C++](./HackerRank/Algorithms/Implementation/TaumAndBday.hpp) | Easy | [here](-) |
 | ACM ICPC Team | [C++](./HackerRank/Algorithms/Implementation/ACMICPCTeam.hpp) | Easy | [here](-) |
 | Append And Delete | [C++](./HackerRank/Algorithms/Implementation/AppendAndDelete.hpp) | Easy | [here](-) |
 | Angry Professor | [C++](./HackerRank/Algorithms/Implementation/AngryProfessor.hpp) | Easy | [here](-) |

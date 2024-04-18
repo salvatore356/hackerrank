@@ -62,7 +62,6 @@ namespace ACMICPCTeam {
         getline(output, out1);
         getline(output, out2);
 
-        printf("\n");
         assert(result[0] == stoi(out1), to_string(result[0]) + " == " + out1);
         assert(result[1] == stoi(out2), to_string(result[1]) + " == " + out2);
     }
