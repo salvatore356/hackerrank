@@ -29,6 +29,7 @@
 		9D1DBB2E2BCFCDF700ACA5D7 /* ACMICPCTeam.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ACMICPCTeam.hpp; sourceTree = "<group>"; };
 		9D1DBB342BD11F4900ACA5D7 /* TaumAndBday.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TaumAndBday.hpp; sourceTree = "<group>"; };
 		9D1DBB372BD126DE00ACA5D7 /* ModifiedKaprekarNumbers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ModifiedKaprekarNumbers.hpp; sourceTree = "<group>"; };
+		9D1DBB482BD26D9900ACA5D7 /* BeautifulTriplets.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BeautifulTriplets.hpp; sourceTree = "<group>"; };
 		9D365D812BC3F5B200B0CD22 /* EqualizeTheArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = EqualizeTheArray.hpp; sourceTree = "<group>"; };
 		9D975A7C2BB813DF00B38A1E /* SubarrayDivision.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SubarrayDivision.hpp; sourceTree = "<group>"; };
 		9D975A7F2BB8161F00B38A1E /* DivisibleSumPairs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DivisibleSumPairs.hpp; sourceTree = "<group>"; };
@@ -100,6 +101,7 @@
 				9D1DBB2E2BCFCDF700ACA5D7 /* ACMICPCTeam.hpp */,
 				9D1DBB342BD11F4900ACA5D7 /* TaumAndBday.hpp */,
 				9D1DBB372BD126DE00ACA5D7 /* ModifiedKaprekarNumbers.hpp */,
+				9D1DBB482BD26D9900ACA5D7 /* BeautifulTriplets.hpp */,
 			);
 			path = Implementation;
 			sourceTree = "<group>";

@@ -18,6 +18,7 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
+| Beautiful Triplets | [C++](./HackerRank/Algorithms/Implementation/BeautifulTriplets.hpp) | Easy | [here](-) |
 | Modified Kaprekar Numbers | [C++](./HackerRank/Algorithms/Implementation/ModifiedKaprekarNumbers.hpp) | Easy | [here](-) |
 | Taum And B'day | [C++](./HackerRank/Algorithms/Implementation/TaumAndBday.hpp) | Easy | [here](-) |
 | ACM ICPC Team | [C++](./HackerRank/Algorithms/Implementation/ACMICPCTeam.hpp) | Easy | [here](-) |
