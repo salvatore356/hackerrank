@@ -18,6 +18,7 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
+| Halloween Sale | [C++](./HackerRank/Algorithms/Implementation/HalloweenSale.hpp) | Easy | [here](-) |
 | Minimum Distances | [C++](./HackerRank/Algorithms/Implementation/MinimumDistances.hpp) | Easy | [here](-) |
 | Beautiful Triplets | [C++](./HackerRank/Algorithms/Implementation/BeautifulTriplets.hpp) | Easy | [here](-) |
 | Modified Kaprekar Numbers | [C++](./HackerRank/Algorithms/Implementation/ModifiedKaprekarNumbers.hpp) | Easy | [here](-) |
