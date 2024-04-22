@@ -22,5 +22,7 @@
 #include "Implementation/TaumAndBday.hpp"
 #include "Implementation/ModifiedKaprekarNumbers.hpp"
 #include "Implementation/BeautifulTriplets.hpp"
+#include "Implementation/MinimumDistances.hpp"
+
 
 #endif /* Algorithms_hpp */
