@@ -11,6 +11,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    MinimumDistances::test();
+    HalloweenSale::test();
     return 0;
 }

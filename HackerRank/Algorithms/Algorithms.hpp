@@ -23,6 +23,7 @@
 #include "Implementation/ModifiedKaprekarNumbers.hpp"
 #include "Implementation/BeautifulTriplets.hpp"
 #include "Implementation/MinimumDistances.hpp"
+#include "Implementation/HalloweenSale.hpp"
 
 
 #endif /* Algorithms_hpp */
