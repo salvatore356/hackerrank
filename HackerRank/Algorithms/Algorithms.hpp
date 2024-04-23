@@ -25,7 +25,6 @@
 #include "Implementation/MinimumDistances.hpp"
 #include "Implementation/HalloweenSale.hpp"
 #include "Implementation/ChocolateFeast.hpp"
-
-
+#include "Implementation/ServiceLane.hpp"
 
 #endif /* Algorithms_hpp */

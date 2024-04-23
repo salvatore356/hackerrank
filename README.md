@@ -18,6 +18,7 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
+| Service Lane | [C++](./HackerRank/Algorithms/Implementation/ServiceLane.hpp) | Easy | [here](-) |
 | Chocolate Feast | [C++](./HackerRank/Algorithms/Implementation/ChocolateFeast.hpp) | Easy | [here](-) |
 | Halloween Sale | [C++](./HackerRank/Algorithms/Implementation/HalloweenSale.hpp) | Easy | [here](-) |
 | Minimum Distances | [C++](./HackerRank/Algorithms/Implementation/MinimumDistances.hpp) | Easy | [here](-) |
