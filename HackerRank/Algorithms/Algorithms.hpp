@@ -24,6 +24,8 @@
 #include "Implementation/BeautifulTriplets.hpp"
 #include "Implementation/MinimumDistances.hpp"
 #include "Implementation/HalloweenSale.hpp"
+#include "Implementation/ChocolateFeast.hpp"
+
 
 
 #endif /* Algorithms_hpp */

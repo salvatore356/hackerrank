@@ -32,6 +32,7 @@
 		9D1DBB482BD26D9900ACA5D7 /* BeautifulTriplets.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BeautifulTriplets.hpp; sourceTree = "<group>"; };
 		9D1DBB4B2BD667A000ACA5D7 /* MinimumDistances.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MinimumDistances.hpp; sourceTree = "<group>"; };
 		9D1DBB4E2BD66DCD00ACA5D7 /* HalloweenSale.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HalloweenSale.hpp; sourceTree = "<group>"; };
+		9D1DBBA62BD7C55600ACA5D7 /* ChocolateFeast.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ChocolateFeast.hpp; sourceTree = "<group>"; };
 		9D365D812BC3F5B200B0CD22 /* EqualizeTheArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = EqualizeTheArray.hpp; sourceTree = "<group>"; };
 		9D975A7C2BB813DF00B38A1E /* SubarrayDivision.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SubarrayDivision.hpp; sourceTree = "<group>"; };
 		9D975A7F2BB8161F00B38A1E /* DivisibleSumPairs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DivisibleSumPairs.hpp; sourceTree = "<group>"; };
@@ -106,6 +107,7 @@
 				9D1DBB482BD26D9900ACA5D7 /* BeautifulTriplets.hpp */,
 				9D1DBB4B2BD667A000ACA5D7 /* MinimumDistances.hpp */,
 				9D1DBB4E2BD66DCD00ACA5D7 /* HalloweenSale.hpp */,
+				9D1DBBA62BD7C55600ACA5D7 /* ChocolateFeast.hpp */,
 			);
 			path = Implementation;
 			sourceTree = "<group>";
