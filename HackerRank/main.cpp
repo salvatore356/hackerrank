@@ -11,6 +11,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    LisasWorkbook::test();
+    FlatlandSpaceStations::test();
     return 0;
 }

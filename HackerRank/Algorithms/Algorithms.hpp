@@ -27,5 +27,6 @@
 #include "Implementation/ChocolateFeast.hpp"
 #include "Implementation/ServiceLane.hpp"
 #include "Implementation/LisasWorkbook.hpp"
+#include "Implementation/FlatlandSpaceStations.hpp"
 
 #endif /* Algorithms_hpp */
