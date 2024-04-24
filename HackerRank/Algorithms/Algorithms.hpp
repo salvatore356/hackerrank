@@ -29,6 +29,6 @@
 #include "Implementation/LisasWorkbook.hpp"
 #include "Implementation/FlatlandSpaceStations.hpp"
 #include "Implementation/FairRations.hpp"
-
+#include "Implementation/CavityMap.hpp"
 
 #endif /* Algorithms_hpp */

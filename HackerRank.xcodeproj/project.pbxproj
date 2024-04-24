@@ -34,6 +34,7 @@
 		9D1DBB4E2BD66DCD00ACA5D7 /* HalloweenSale.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HalloweenSale.hpp; sourceTree = "<group>"; };
 		9D1DBBA62BD7C55600ACA5D7 /* ChocolateFeast.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ChocolateFeast.hpp; sourceTree = "<group>"; };
 		9D1DBBA92BD7CD5D00ACA5D7 /* ServiceLane.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ServiceLane.hpp; sourceTree = "<group>"; };
+		9D1EEE8C2BD99B6600098259 /* CavityMap.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CavityMap.hpp; sourceTree = "<group>"; };
 		9D365D812BC3F5B200B0CD22 /* EqualizeTheArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = EqualizeTheArray.hpp; sourceTree = "<group>"; };
 		9D626C182BD983700049991E /* LisasWorkbook.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LisasWorkbook.hpp; sourceTree = "<group>"; };
 		9D626C1B2BD9884E0049991E /* FlatlandSpaceStations.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FlatlandSpaceStations.hpp; sourceTree = "<group>"; };
@@ -116,6 +117,7 @@
 				9D626C182BD983700049991E /* LisasWorkbook.hpp */,
 				9D626C1B2BD9884E0049991E /* FlatlandSpaceStations.hpp */,
 				9D626C1E2BD991AE0049991E /* FairRations.hpp */,
+				9D1EEE8C2BD99B6600098259 /* CavityMap.hpp */,
 			);
 			path = Implementation;
 			sourceTree = "<group>";
