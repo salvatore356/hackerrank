@@ -18,6 +18,7 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
+| Fair Rations | [C++](./HackerRank/Algorithms/Implementation/FairRations.hpp) | Easy | [here](-) |
 | Flatland Space Stations | [C++](./HackerRank/Algorithms/Implementation/FlatlandSpaceStations.hpp) | Easy | [here](-) |
 | Lisa's Workbook | [C++](./HackerRank/Algorithms/Implementation/LisasWorkbook.hpp) | Easy | [here](-) |
 | Service Lane | [C++](./HackerRank/Algorithms/Implementation/ServiceLane.hpp) | Easy | [here](-) |

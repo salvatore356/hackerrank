@@ -28,5 +28,7 @@
 #include "Implementation/ServiceLane.hpp"
 #include "Implementation/LisasWorkbook.hpp"
 #include "Implementation/FlatlandSpaceStations.hpp"
+#include "Implementation/FairRations.hpp"
+
 
 #endif /* Algorithms_hpp */

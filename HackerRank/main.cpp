@@ -11,6 +11,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    FlatlandSpaceStations::test();
+    FairRations::test();
     return 0;
 }
