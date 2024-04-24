@@ -26,5 +26,6 @@
 #include "Implementation/HalloweenSale.hpp"
 #include "Implementation/ChocolateFeast.hpp"
 #include "Implementation/ServiceLane.hpp"
+#include "Implementation/LisasWorkbook.hpp"
 
 #endif /* Algorithms_hpp */

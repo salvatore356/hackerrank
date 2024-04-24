@@ -11,6 +11,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    ServiceLane::test();
+    LisasWorkbook::test();
     return 0;
 }
