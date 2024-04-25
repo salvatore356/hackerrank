@@ -18,6 +18,7 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
+| Happy Ladybugs | [C++](./HackerRank/Algorithms/Implementation/HappyLadybugs.hpp) | Easy | [here](-) |
 | Manasa And Stones | [C++](./HackerRank/Algorithms/Implementation/ManasaAndStones.hpp) | Easy | [here](-) |
 | Cavity Map | [C++](./HackerRank/Algorithms/Implementation/CavityMap.hpp) | Easy | [here](-) |
 | Fair Rations | [C++](./HackerRank/Algorithms/Implementation/FairRations.hpp) | Easy | [here](-) |

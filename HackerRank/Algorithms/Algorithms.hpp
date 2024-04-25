@@ -31,5 +31,6 @@
 #include "Implementation/FairRations.hpp"
 #include "Implementation/CavityMap.hpp"
 #include "Implementation/ManasaAndStones.hpp"
+#include "Implementation/HappyLadybugs.hpp"
 
 #endif /* Algorithms_hpp */
