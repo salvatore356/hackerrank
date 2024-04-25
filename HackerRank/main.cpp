@@ -11,6 +11,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    CavityMap::test();
+    ManasaAndStones::test();
     return 0;
 }

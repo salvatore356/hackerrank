@@ -18,6 +18,7 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
+| Manasa And Stones | [C++](./HackerRank/Algorithms/Implementation/ManasaAndStones.hpp) | Easy | [here](-) |
 | Cavity Map | [C++](./HackerRank/Algorithms/Implementation/CavityMap.hpp) | Easy | [here](-) |
 | Fair Rations | [C++](./HackerRank/Algorithms/Implementation/FairRations.hpp) | Easy | [here](-) |
 | Flatland Space Stations | [C++](./HackerRank/Algorithms/Implementation/FlatlandSpaceStations.hpp) | Easy | [here](-) |

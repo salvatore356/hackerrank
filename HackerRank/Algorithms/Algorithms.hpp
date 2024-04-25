@@ -30,5 +30,6 @@
 #include "Implementation/FlatlandSpaceStations.hpp"
 #include "Implementation/FairRations.hpp"
 #include "Implementation/CavityMap.hpp"
+#include "Implementation/ManasaAndStones.hpp"
 
 #endif /* Algorithms_hpp */
