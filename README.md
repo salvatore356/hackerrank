@@ -18,6 +18,7 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
+| Strange Counter | [C++](./HackerRank/Algorithms/Implementation/StrangeCounter.hpp) | Easy | [here](-) |
 | Happy Ladybugs | [C++](./HackerRank/Algorithms/Implementation/HappyLadybugs.hpp) | Easy | [here](-) |
 | Manasa And Stones | [C++](./HackerRank/Algorithms/Implementation/ManasaAndStones.hpp) | Easy | [here](-) |
 | Cavity Map | [C++](./HackerRank/Algorithms/Implementation/CavityMap.hpp) | Easy | [here](-) |

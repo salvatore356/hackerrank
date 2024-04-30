@@ -11,6 +11,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    HappyLadybugs::test();
+    StrangeCounter::test();
     return 0;
 }

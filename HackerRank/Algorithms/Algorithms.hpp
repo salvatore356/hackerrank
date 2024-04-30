@@ -32,5 +32,7 @@
 #include "Implementation/CavityMap.hpp"
 #include "Implementation/ManasaAndStones.hpp"
 #include "Implementation/HappyLadybugs.hpp"
+#include "Implementation/StrangeCounter.hpp"
+
 
 #endif /* Algorithms_hpp */

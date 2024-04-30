@@ -41,6 +41,7 @@
 		9D626C182BD983700049991E /* LisasWorkbook.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LisasWorkbook.hpp; sourceTree = "<group>"; };
 		9D626C1B2BD9884E0049991E /* FlatlandSpaceStations.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FlatlandSpaceStations.hpp; sourceTree = "<group>"; };
 		9D626C1E2BD991AE0049991E /* FairRations.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FairRations.hpp; sourceTree = "<group>"; };
+		9D965F942BE10FCA00C2BB46 /* StrangeCounter.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = StrangeCounter.hpp; sourceTree = "<group>"; };
 		9D975A7C2BB813DF00B38A1E /* SubarrayDivision.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SubarrayDivision.hpp; sourceTree = "<group>"; };
 		9D975A7F2BB8161F00B38A1E /* DivisibleSumPairs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DivisibleSumPairs.hpp; sourceTree = "<group>"; };
 		9D975A822BB817F100B38A1E /* MigratoryBirds.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MigratoryBirds.hpp; sourceTree = "<group>"; };
@@ -122,6 +123,7 @@
 				9D1EEE8C2BD99B6600098259 /* CavityMap.hpp */,
 				9D1EEEA62BDAC64300098259 /* ManasaAndStones.hpp */,
 				9D1EEEA92BDACB6500098259 /* HappyLadybugs.hpp */,
+				9D965F942BE10FCA00C2BB46 /* StrangeCounter.hpp */,
 			);
 			path = Implementation;
 			sourceTree = "<group>";
