@@ -33,6 +33,6 @@
 #include "Implementation/ManasaAndStones.hpp"
 #include "Implementation/HappyLadybugs.hpp"
 #include "Implementation/StrangeCounter.hpp"
-
+#include "Implementation/BigSorting.hpp"
 
 #endif /* Algorithms_hpp */

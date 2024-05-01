@@ -11,6 +11,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    StrangeCounter::test();
+    BigSorting::test();
     return 0;
 }
