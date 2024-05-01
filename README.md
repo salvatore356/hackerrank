@@ -18,6 +18,7 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
+| CamelCase | [C++](./HackerRank/Algorithms/Implementation/CamelCase.hpp) | Easy | - |
 | Super Reduced String | [C++](./HackerRank/Algorithms/Implementation/SuperReducedString.hpp) | Easy | - |
 | Big Sorting | [C++](./HackerRank/Algorithms/Implementation/BigSorting.hpp) | Easy | - |
 | Strange Counter | [C++](./HackerRank/Algorithms/Implementation/StrangeCounter.hpp) | Easy | - |

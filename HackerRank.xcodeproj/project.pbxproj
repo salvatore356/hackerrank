@@ -44,6 +44,7 @@
 		9D965F942BE10FCA00C2BB46 /* StrangeCounter.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = StrangeCounter.hpp; sourceTree = "<group>"; };
 		9D965FAF2BE2944C00C2BB46 /* BigSorting.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BigSorting.hpp; sourceTree = "<group>"; };
 		9D965FBD2BE2A01A00C2BB46 /* SuperReducedString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SuperReducedString.hpp; sourceTree = "<group>"; };
+		9D965FC02BE2A25500C2BB46 /* CamelCase.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CamelCase.hpp; sourceTree = "<group>"; };
 		9D975A7C2BB813DF00B38A1E /* SubarrayDivision.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SubarrayDivision.hpp; sourceTree = "<group>"; };
 		9D975A7F2BB8161F00B38A1E /* DivisibleSumPairs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DivisibleSumPairs.hpp; sourceTree = "<group>"; };
 		9D975A822BB817F100B38A1E /* MigratoryBirds.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MigratoryBirds.hpp; sourceTree = "<group>"; };
@@ -128,6 +129,7 @@
 				9D965F942BE10FCA00C2BB46 /* StrangeCounter.hpp */,
 				9D965FAF2BE2944C00C2BB46 /* BigSorting.hpp */,
 				9D965FBD2BE2A01A00C2BB46 /* SuperReducedString.hpp */,
+				9D965FC02BE2A25500C2BB46 /* CamelCase.hpp */,
 			);
 			path = Implementation;
 			sourceTree = "<group>";

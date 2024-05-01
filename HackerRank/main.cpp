@@ -11,6 +11,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    SuperReducedString::test();
+    CamelCase::test();
     return 0;
 }

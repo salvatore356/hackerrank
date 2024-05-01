@@ -35,5 +35,6 @@
 #include "Implementation/StrangeCounter.hpp"
 #include "Implementation/BigSorting.hpp"
 #include "Implementation/SuperReducedString.hpp"
+#include "Implementation/CamelCase.hpp"
 
 #endif /* Algorithms_hpp */
