@@ -11,6 +11,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    BigSorting::test();
+    SuperReducedString::test();
     return 0;
 }

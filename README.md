@@ -18,6 +18,7 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
+| Super Reduced String | [C++](./HackerRank/Algorithms/Implementation/SuperReducedString.hpp) | Easy | - |
 | Big Sorting | [C++](./HackerRank/Algorithms/Implementation/BigSorting.hpp) | Easy | - |
 | Strange Counter | [C++](./HackerRank/Algorithms/Implementation/StrangeCounter.hpp) | Easy | - |
 | Happy Ladybugs | [C++](./HackerRank/Algorithms/Implementation/HappyLadybugs.hpp) | Easy | - |
