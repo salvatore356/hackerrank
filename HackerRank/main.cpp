@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    StrongPassword::test();
+    EvenFibonacciNumbers::test();
     return 0;
 }
