@@ -37,5 +37,6 @@
 #include "Implementation/SuperReducedString.hpp"
 #include "Implementation/CamelCase.hpp"
 #include "Implementation/InsertionSortPart1.hpp"
+#include "Implementation/StrongPassword.hpp"
 
 #endif /* Algorithms_hpp */

@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    InsertionSortPart1::test();
+    StrongPassword::test();
     return 0;
 }

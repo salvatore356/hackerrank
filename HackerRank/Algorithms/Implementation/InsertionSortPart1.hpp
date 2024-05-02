@@ -19,7 +19,7 @@ namespace InsertionSortPart1 {
         return trim(value);
     }
 
-vector<string> insertionSort1(int n, vector<int> arr) {
+    vector<string> insertionSort1(int n, vector<int> arr) {
         vector<string> ans;
         
         int key = arr.back();
