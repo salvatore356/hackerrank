@@ -36,5 +36,6 @@
 #include "Implementation/BigSorting.hpp"
 #include "Implementation/SuperReducedString.hpp"
 #include "Implementation/CamelCase.hpp"
+#include "Implementation/InsertionSortPart1.hpp"
 
 #endif /* Algorithms_hpp */

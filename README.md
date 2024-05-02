@@ -18,6 +18,8 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
+| Project Euler #1: Multiples of 3 and 5 | [C++](./HackerRank/ProjectEuler+/MultiplesOf3And5.hpp) | Easy | - |
+| Insertion Sort - Part 1 | [C++](./HackerRank/Algorithms/Implementation/InsertionSortPart1.hpp) | Easy | - |
 | CamelCase | [C++](./HackerRank/Algorithms/Implementation/CamelCase.hpp) | Easy | - |
 | Super Reduced String | [C++](./HackerRank/Algorithms/Implementation/SuperReducedString.hpp) | Easy | - |
 | Big Sorting | [C++](./HackerRank/Algorithms/Implementation/BigSorting.hpp) | Easy | - |

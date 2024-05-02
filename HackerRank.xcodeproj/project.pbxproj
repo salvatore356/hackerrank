@@ -45,6 +45,9 @@
 		9D965FAF2BE2944C00C2BB46 /* BigSorting.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BigSorting.hpp; sourceTree = "<group>"; };
 		9D965FBD2BE2A01A00C2BB46 /* SuperReducedString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SuperReducedString.hpp; sourceTree = "<group>"; };
 		9D965FC02BE2A25500C2BB46 /* CamelCase.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CamelCase.hpp; sourceTree = "<group>"; };
+		9D965FC42BE2AC9500C2BB46 /* MultiplesOf3And5.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MultiplesOf3And5.hpp; sourceTree = "<group>"; };
+		9D965FC72BE2AD1E00C2BB46 /* ProjectEuler+.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "ProjectEuler+.hpp"; sourceTree = "<group>"; };
+		9D965FD02BE3D42600C2BB46 /* InsertionSortPart1.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = InsertionSortPart1.hpp; sourceTree = "<group>"; };
 		9D975A7C2BB813DF00B38A1E /* SubarrayDivision.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SubarrayDivision.hpp; sourceTree = "<group>"; };
 		9D975A7F2BB8161F00B38A1E /* DivisibleSumPairs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DivisibleSumPairs.hpp; sourceTree = "<group>"; };
 		9D975A822BB817F100B38A1E /* MigratoryBirds.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MigratoryBirds.hpp; sourceTree = "<group>"; };
@@ -94,6 +97,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9D965FC22BE2AC6C00C2BB46 /* ProjectEuler+ */ = {
+			isa = PBXGroup;
+			children = (
+				9D965FC42BE2AC9500C2BB46 /* MultiplesOf3And5.hpp */,
+				9D965FC72BE2AD1E00C2BB46 /* ProjectEuler+.hpp */,
+			);
+			path = "ProjectEuler+";
+			sourceTree = "<group>";
+		};
 		9D975A962BB8D11100B38A1E /* Implementation */ = {
 			isa = PBXGroup;
 			children = (
@@ -130,6 +142,7 @@
 				9D965FAF2BE2944C00C2BB46 /* BigSorting.hpp */,
 				9D965FBD2BE2A01A00C2BB46 /* SuperReducedString.hpp */,
 				9D965FC02BE2A25500C2BB46 /* CamelCase.hpp */,
+				9D965FD02BE3D42600C2BB46 /* InsertionSortPart1.hpp */,
 			);
 			path = Implementation;
 			sourceTree = "<group>";
@@ -161,6 +174,7 @@
 		9DAC366B2BB5AC700070D4DE /* HackerRank */ = {
 			isa = PBXGroup;
 			children = (
+				9D965FC22BE2AC6C00C2BB46 /* ProjectEuler+ */,
 				9D975ABB2BB8E67200B38A1E /* Tests */,
 				9D975AA92BB8DCCC00B38A1E /* Utils */,
 				9DAC36732BB5AC970070D4DE /* Algorithms */,

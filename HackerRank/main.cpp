@@ -7,10 +7,11 @@
 
 #include <iostream>
 #include "Algorithms/Algorithms.hpp"
+#include "ProjectEuler+/ProjectEuler+.hpp"
 
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    CamelCase::test();
+    InsertionSortPart1::test();
     return 0;
 }
