@@ -15,9 +15,11 @@ Happy coding!
 
 ### Problems
 
+## Algorithms
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
+| Two Characters | [C++](./HackerRank/Algorithms/Implementation/TwoCharacters.hpp) | Easy | - |
 | Strong Password | [C++](./HackerRank/Algorithms/Implementation/StrongPassword.hpp) | Easy | - |
 | Insertion Sort - Part 1 | [C++](./HackerRank/Algorithms/Implementation/InsertionSortPart1.hpp) | Easy | - |
 | CamelCase | [C++](./HackerRank/Algorithms/Implementation/CamelCase.hpp) | Easy | - |

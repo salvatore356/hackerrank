@@ -38,5 +38,6 @@
 #include "Implementation/CamelCase.hpp"
 #include "Implementation/InsertionSortPart1.hpp"
 #include "Implementation/StrongPassword.hpp"
+#include "Implementation/TwoCharacters.hpp"
 
 #endif /* Algorithms_hpp */
