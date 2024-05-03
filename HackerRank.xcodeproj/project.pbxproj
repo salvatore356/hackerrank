@@ -52,6 +52,7 @@
 		9D965FD62BE3E47500C2BB46 /* EvenFibonacciNumbers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = EvenFibonacciNumbers.hpp; sourceTree = "<group>"; };
 		9D965FDF2BE5209F00C2BB46 /* TwoCharacters.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TwoCharacters.hpp; sourceTree = "<group>"; };
 		9D965FE22BE5274700C2BB46 /* InsertionSortPart2.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = InsertionSortPart2.hpp; sourceTree = "<group>"; };
+		9D965FE52BE5374C00C2BB46 /* LargestPrimeFactor.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LargestPrimeFactor.hpp; sourceTree = "<group>"; };
 		9D975A7C2BB813DF00B38A1E /* SubarrayDivision.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SubarrayDivision.hpp; sourceTree = "<group>"; };
 		9D975A7F2BB8161F00B38A1E /* DivisibleSumPairs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DivisibleSumPairs.hpp; sourceTree = "<group>"; };
 		9D975A822BB817F100B38A1E /* MigratoryBirds.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MigratoryBirds.hpp; sourceTree = "<group>"; };
@@ -107,6 +108,7 @@
 				9D965FC42BE2AC9500C2BB46 /* MultiplesOf3And5.hpp */,
 				9D965FC72BE2AD1E00C2BB46 /* ProjectEuler+.hpp */,
 				9D965FD62BE3E47500C2BB46 /* EvenFibonacciNumbers.hpp */,
+				9D965FE52BE5374C00C2BB46 /* LargestPrimeFactor.hpp */,
 			);
 			path = "ProjectEuler+";
 			sourceTree = "<group>";
