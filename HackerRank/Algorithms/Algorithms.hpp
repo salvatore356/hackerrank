@@ -39,5 +39,6 @@
 #include "Implementation/InsertionSortPart1.hpp"
 #include "Implementation/StrongPassword.hpp"
 #include "Implementation/TwoCharacters.hpp"
+#include "Implementation/InsertionSortPart2.hpp"
 
 #endif /* Algorithms_hpp */

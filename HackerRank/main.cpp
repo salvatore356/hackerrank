@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    TwoCharacters::test();
+    InsertionSortPart2::test();
     return 0;
 }
