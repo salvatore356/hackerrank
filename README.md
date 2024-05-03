@@ -15,7 +15,29 @@ Happy coding!
 
 ### Problems
 
-## Algorithms
+## Warmup
+| Title | Solution | Difficulty | Elaboration |
+| ----- | -------- | ---------- | ----------- |
+| Between Two Sets | [C++](./HackerRank/Algorithms/Warmup/BetweenTwoSets.hpp) | Easy | - |
+| Bill Division | [C++](./HackerRank/Algorithms/Warmup/BillDivision.hpp) | Easy | - |
+| Birthday Cake Candles | [C++](./HackerRank/Algorithms/Warmup/BirthdayCakeCandles.hpp) | Easy | - |
+| Breaking The Records | [C++](./HackerRank/Algorithms/Warmup/BreakingTheRecords.hpp) | Easy | - |
+| Cats And A Mouse | [C++](./HackerRank/Algorithms/Warmup/CatsAndAMouse.hpp) | Easy | - |
+| Count Apples And Oranges | [C++](./HackerRank/Algorithms/Warmup/CountApplesAndOranges.hpp) | Easy | - |
+| Day Of The Programmer | [C++](./HackerRank/Algorithms/Warmup/DayOfTheProgrammer.hpp) | Easy | - |
+| Divisible Sum Pairs | [C++](./HackerRank/Algorithms/Warmup/DivisibleSumPairs.hpp) | Easy | - |
+| Drawing Book | [C++](./HackerRank/Algorithms/Warmup/DrawingBook.hpp) | Easy | - |
+| Electronics Shop | [C++](./HackerRank/Algorithms/Warmup/ElectronicsShop.hpp) | Easy | - |
+| Grading Students | [C++](./HackerRank/Algorithms/Warmup/GradingStudents.hpp) | Easy | - |
+| Migratory Birds | [C++](./HackerRank/Algorithms/Warmup/MigratoryBirds.hpp) | Easy | - |
+| Mini Max Sum | [C++](./HackerRank/Algorithms/Warmup/MiniMaxSum.hpp) | Easy | - |
+| Number Line Jumps | [C++](./HackerRank/Algorithms/Warmup/NumberLineJumps.hpp) | Easy | - |
+| Picking Numbers | [C++](./HackerRank/Algorithms/Warmup/PickingNumbers.hpp) | Easy | - |
+| Staircase | [C++](./HackerRank/Algorithms/Warmup/Staircase.hpp) | Easy | - |
+| Subarray Division | [C++](./HackerRank/Algorithms/Warmup/SubarrayDivision.hpp) | Easy | - |
+| Time Conversion | [C++](./HackerRank/Algorithms/Warmup/TimeConversion.hpp) | Easy | - |
+
+## Implementation
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
@@ -56,24 +78,6 @@ Happy coding!
 | The Hurdle Race | [C++](./HackerRank/Algorithms/Implementation/TheHurdleRace.hpp) | Easy | - |
 | Utopian Tree | [C++](./HackerRank/Algorithms/Implementation/UtopianTree.hpp) | Easy | - |
 | Viral Advertising | [C++](./HackerRank/Algorithms/Implementation/ViralAdvertising.hpp) | Easy | - |
-| Between Two Sets | [C++](./HackerRank/Algorithms/Warmup/BetweenTwoSets.hpp) | Easy | - |
-| Bill Division | [C++](./HackerRank/Algorithms/Warmup/BillDivision.hpp) | Easy | - |
-| Birthday Cake Candles | [C++](./HackerRank/Algorithms/Warmup/BirthdayCakeCandles.hpp) | Easy | - |
-| Breaking The Records | [C++](./HackerRank/Algorithms/Warmup/BreakingTheRecords.hpp) | Easy | - |
-| Cats And A Mouse | [C++](./HackerRank/Algorithms/Warmup/CatsAndAMouse.hpp) | Easy | - |
-| Count Apples And Oranges | [C++](./HackerRank/Algorithms/Warmup/CountApplesAndOranges.hpp) | Easy | - |
-| Day Of The Programmer | [C++](./HackerRank/Algorithms/Warmup/DayOfTheProgrammer.hpp) | Easy | - |
-| Divisible Sum Pairs | [C++](./HackerRank/Algorithms/Warmup/DivisibleSumPairs.hpp) | Easy | - |
-| Drawing Book | [C++](./HackerRank/Algorithms/Warmup/DrawingBook.hpp) | Easy | - |
-| Electronics Shop | [C++](./HackerRank/Algorithms/Warmup/ElectronicsShop.hpp) | Easy | - |
-| Grading Students | [C++](./HackerRank/Algorithms/Warmup/GradingStudents.hpp) | Easy | - |
-| Migratory Birds | [C++](./HackerRank/Algorithms/Warmup/MigratoryBirds.hpp) | Easy | - |
-| Mini Max Sum | [C++](./HackerRank/Algorithms/Warmup/MiniMaxSum.hpp) | Easy | - |
-| Number Line Jumps | [C++](./HackerRank/Algorithms/Warmup/NumberLineJumps.hpp) | Easy | - |
-| Picking Numbers | [C++](./HackerRank/Algorithms/Warmup/PickingNumbers.hpp) | Easy | - |
-| Staircase | [C++](./HackerRank/Algorithms/Warmup/Staircase.hpp) | Easy | - |
-| Subarray Division | [C++](./HackerRank/Algorithms/Warmup/SubarrayDivision.hpp) | Easy | - |
-| Time Conversion | [C++](./HackerRank/Algorithms/Warmup/TimeConversion.hpp) | Easy | - |
 
 ## Project Euler
 
