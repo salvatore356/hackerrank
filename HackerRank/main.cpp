@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    LargestPrimeFactor::test();
+    CorrectnessAndTheLoopInvariant::test();
     return 0;
 }

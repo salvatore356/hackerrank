@@ -79,6 +79,12 @@ Happy coding!
 | Utopian Tree | [C++](./HackerRank/Algorithms/Implementation/UtopianTree.hpp) | Easy | - |
 | Viral Advertising | [C++](./HackerRank/Algorithms/Implementation/ViralAdvertising.hpp) | Easy | - |
 
+## Sorting
+
+| Title | Solution | Difficulty | Elaboration |
+| ----- | -------- | ---------- | ----------- |
+| Correctness And The Loop Invariant | [C++](./HackerRank/Algorithms/Sorting/CorrectnessAndTheLoopInvariant.hpp) | Easy | - |
+
 ## Project Euler
 
 | Title | Solution | Difficulty | Elaboration |

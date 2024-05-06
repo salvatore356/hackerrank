@@ -41,4 +41,6 @@
 #include "Implementation/TwoCharacters.hpp"
 #include "Implementation/InsertionSortPart2.hpp"
 
+#include "Sorting/CorrectnessAndTheLoopInvariant.hpp"
+
 #endif /* Algorithms_hpp */
