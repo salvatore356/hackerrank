@@ -98,3 +98,4 @@ Happy coding!
 | Project Euler #1: Multiples of 3 and 5 | [C++](./HackerRank/ProjectEuler+/MultiplesOf3And5.hpp) | Easy | - |
 | Project Euler #2: Even Fibonacci numbers | [C++](./HackerRank/ProjectEuler+/EvenFibonacciNumbers.hpp) | Easy | - |
 | Project Euler #3: Largest prime factor | [C++](./HackerRank/ProjectEuler+/LargestPrimeFactor.hpp) | Easy | - |
+| Project Euler #6: Sum square difference | [C++](./HackerRank/ProjectEuler+/SumSquareDifference.hpp) | Easy | - |

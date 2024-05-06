@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    CaesarCipher::test();
+    SumSquareDifference::test();
     return 0;
 }
