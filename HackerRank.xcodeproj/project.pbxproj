@@ -54,6 +54,7 @@
 		9D965FE22BE5274700C2BB46 /* InsertionSortPart2.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = InsertionSortPart2.hpp; sourceTree = "<group>"; };
 		9D965FE52BE5374C00C2BB46 /* LargestPrimeFactor.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LargestPrimeFactor.hpp; sourceTree = "<group>"; };
 		9D965FEC2BE8F09F00C2BB46 /* CorrectnessAndTheLoopInvariant.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CorrectnessAndTheLoopInvariant.hpp; sourceTree = "<group>"; };
+		9D965FF02BE8F45400C2BB46 /* CaesarCipher.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CaesarCipher.hpp; sourceTree = "<group>"; };
 		9D975A7C2BB813DF00B38A1E /* SubarrayDivision.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SubarrayDivision.hpp; sourceTree = "<group>"; };
 		9D975A7F2BB8161F00B38A1E /* DivisibleSumPairs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DivisibleSumPairs.hpp; sourceTree = "<group>"; };
 		9D975A822BB817F100B38A1E /* MigratoryBirds.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MigratoryBirds.hpp; sourceTree = "<group>"; };
@@ -120,6 +121,14 @@
 				9D965FEC2BE8F09F00C2BB46 /* CorrectnessAndTheLoopInvariant.hpp */,
 			);
 			path = Sorting;
+			sourceTree = "<group>";
+		};
+		9D965FEE2BE8F44700C2BB46 /* Strings */ = {
+			isa = PBXGroup;
+			children = (
+				9D965FF02BE8F45400C2BB46 /* CaesarCipher.hpp */,
+			);
+			path = Strings;
 			sourceTree = "<group>";
 		};
 		9D975A962BB8D11100B38A1E /* Implementation */ = {
@@ -205,6 +214,7 @@
 		9DAC36732BB5AC970070D4DE /* Algorithms */ = {
 			isa = PBXGroup;
 			children = (
+				9D965FEE2BE8F44700C2BB46 /* Strings */,
 				9D965FEA2BE8F08D00C2BB46 /* Sorting */,
 				9D975A962BB8D11100B38A1E /* Implementation */,
 				9DAC36742BB5AC9E0070D4DE /* Warmup */,

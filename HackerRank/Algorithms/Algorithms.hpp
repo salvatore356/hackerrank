@@ -43,4 +43,6 @@
 
 #include "Sorting/CorrectnessAndTheLoopInvariant.hpp"
 
+#include "Strings/CaesarCipher.hpp"
+
 #endif /* Algorithms_hpp */

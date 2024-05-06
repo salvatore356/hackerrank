@@ -85,6 +85,12 @@ Happy coding!
 | ----- | -------- | ---------- | ----------- |
 | Correctness And The Loop Invariant | [C++](./HackerRank/Algorithms/Sorting/CorrectnessAndTheLoopInvariant.hpp) | Easy | - |
 
+## Strings
+
+| Title | Solution | Difficulty | Elaboration |
+| ----- | -------- | ---------- | ----------- |
+| Caesar Cipher | [C++](./HackerRank/Algorithms/Strings/CaesarCipher.hpp) | Easy | - |
+
 ## Project Euler
 
 | Title | Solution | Difficulty | Elaboration |
