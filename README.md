@@ -101,3 +101,4 @@ Happy coding!
 | Project Euler #2: Even Fibonacci numbers | [C++](./HackerRank/ProjectEuler+/EvenFibonacciNumbers.hpp) | Easy | - |
 | Project Euler #3: Largest prime factor | [C++](./HackerRank/ProjectEuler+/LargestPrimeFactor.hpp) | Easy | - |
 | Project Euler #6: Sum square difference | [C++](./HackerRank/ProjectEuler+/SumSquareDifference.hpp) | Easy | - |
+| Project Euler #7: 10001st prime | [C++](./HackerRank/ProjectEuler+/10001stPrime.hpp) | Easy | - |

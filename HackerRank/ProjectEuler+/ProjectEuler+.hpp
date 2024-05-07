@@ -13,5 +13,6 @@
 #include "EvenFibonacciNumbers.hpp"
 #include "LargestPrimeFactor.hpp"
 #include "SumSquareDifference.hpp"
+#include "10001stPrime.hpp"
 
 #endif /* ProjectEuler__hpp */

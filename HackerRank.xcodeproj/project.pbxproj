@@ -58,6 +58,7 @@
 		9D965FF32BE8F75600C2BB46 /* SumSquareDifference.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SumSquareDifference.hpp; sourceTree = "<group>"; };
 		9D965FFE2BEA2AD200C2BB46 /* MarsExploration.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MarsExploration.hpp; sourceTree = "<group>"; };
 		9D9660012BEA2DCB00C2BB46 /* RunningTimeOfAlgorithms.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RunningTimeOfAlgorithms.hpp; sourceTree = "<group>"; };
+		9D9660042BEA392D00C2BB46 /* 10001stPrime.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 10001stPrime.hpp; sourceTree = "<group>"; };
 		9D975A7C2BB813DF00B38A1E /* SubarrayDivision.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SubarrayDivision.hpp; sourceTree = "<group>"; };
 		9D975A7F2BB8161F00B38A1E /* DivisibleSumPairs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DivisibleSumPairs.hpp; sourceTree = "<group>"; };
 		9D975A822BB817F100B38A1E /* MigratoryBirds.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MigratoryBirds.hpp; sourceTree = "<group>"; };
@@ -110,11 +111,12 @@
 		9D965FC22BE2AC6C00C2BB46 /* ProjectEuler+ */ = {
 			isa = PBXGroup;
 			children = (
-				9D965FC42BE2AC9500C2BB46 /* MultiplesOf3And5.hpp */,
 				9D965FC72BE2AD1E00C2BB46 /* ProjectEuler+.hpp */,
+				9D965FC42BE2AC9500C2BB46 /* MultiplesOf3And5.hpp */,
 				9D965FD62BE3E47500C2BB46 /* EvenFibonacciNumbers.hpp */,
 				9D965FE52BE5374C00C2BB46 /* LargestPrimeFactor.hpp */,
 				9D965FF32BE8F75600C2BB46 /* SumSquareDifference.hpp */,
+				9D9660042BEA392D00C2BB46 /* 10001stPrime.hpp */,
 			);
 			path = "ProjectEuler+";
 			sourceTree = "<group>";

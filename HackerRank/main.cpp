@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    RunningTimeOfAlgorithms::test();
+    _10001stPrime::test();
     return 0;
 }
