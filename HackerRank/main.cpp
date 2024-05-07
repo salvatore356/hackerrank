@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    MarsExploration::test();
+    RunningTimeOfAlgorithms::test();
     return 0;
 }

@@ -84,6 +84,7 @@ Happy coding!
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
 | Correctness And The Loop Invariant | [C++](./HackerRank/Algorithms/Sorting/CorrectnessAndTheLoopInvariant.hpp) | Easy | - |
+| Running Time Of Algorithms | [C++](./HackerRank/Algorithms/Sorting/RunningTimeOfAlgorithms.hpp) | Easy | - |
 
 ## Strings
 

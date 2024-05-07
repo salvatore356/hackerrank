@@ -42,6 +42,7 @@
 #include "Implementation/InsertionSortPart2.hpp"
 
 #include "Sorting/CorrectnessAndTheLoopInvariant.hpp"
+#include "Sorting/RunningTimeOfAlgorithms.hpp"
 
 #include "Strings/CaesarCipher.hpp"
 #include "Strings/MarsExploration.hpp"
