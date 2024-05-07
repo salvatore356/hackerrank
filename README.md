@@ -90,6 +90,7 @@ Happy coding!
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
 | Caesar Cipher | [C++](./HackerRank/Algorithms/Strings/CaesarCipher.hpp) | Easy | - |
+| Mars Exploration | [C++](./HackerRank/Algorithms/Strings/MarsExploration.hpp) | Easy | - |
 
 ## Project Euler
 

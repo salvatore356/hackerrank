@@ -44,5 +44,7 @@
 #include "Sorting/CorrectnessAndTheLoopInvariant.hpp"
 
 #include "Strings/CaesarCipher.hpp"
+#include "Strings/MarsExploration.hpp"
+
 
 #endif /* Algorithms_hpp */

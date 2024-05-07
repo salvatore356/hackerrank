@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    SumSquareDifference::test();
+    MarsExploration::test();
     return 0;
 }
