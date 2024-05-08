@@ -43,6 +43,7 @@
 
 #include "Sorting/CorrectnessAndTheLoopInvariant.hpp"
 #include "Sorting/RunningTimeOfAlgorithms.hpp"
+#include "Sorting/Quicksort1Partition.hpp"
 
 #include "Strings/CaesarCipher.hpp"
 #include "Strings/MarsExploration.hpp"

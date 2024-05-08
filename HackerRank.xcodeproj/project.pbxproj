@@ -96,6 +96,7 @@
 		9DAC368B2BB6D5370070D4DE /* BetweenTwoSets.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BetweenTwoSets.hpp; sourceTree = "<group>"; };
 		9DAC368E2BB6DE2E0070D4DE /* BreakingTheRecords.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BreakingTheRecords.hpp; sourceTree = "<group>"; };
 		9DBDAA202BEB852100CC6232 /* HackerRankInAString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HackerRankInAString.hpp; sourceTree = "<group>"; };
+		9DBDAA232BEB89BA00CC6232 /* Quicksort1Partition.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Quicksort1Partition.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +128,7 @@
 			children = (
 				9D965FEC2BE8F09F00C2BB46 /* CorrectnessAndTheLoopInvariant.hpp */,
 				9D9660012BEA2DCB00C2BB46 /* RunningTimeOfAlgorithms.hpp */,
+				9DBDAA232BEB89BA00CC6232 /* Quicksort1Partition.hpp */,
 			);
 			path = Sorting;
 			sourceTree = "<group>";

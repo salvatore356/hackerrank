@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    HackerRankInAString::test();
+    Quicksort1Partition::test();
     return 0;
 }
