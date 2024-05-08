@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    _10001stPrime::test();
+    HackerRankInAString::test();
     return 0;
 }

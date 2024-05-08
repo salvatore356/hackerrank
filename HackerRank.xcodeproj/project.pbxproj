@@ -95,6 +95,7 @@
 		9DAC36882BB6CEFB0070D4DE /* NumberLineJumps.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = NumberLineJumps.hpp; sourceTree = "<group>"; };
 		9DAC368B2BB6D5370070D4DE /* BetweenTwoSets.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BetweenTwoSets.hpp; sourceTree = "<group>"; };
 		9DAC368E2BB6DE2E0070D4DE /* BreakingTheRecords.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BreakingTheRecords.hpp; sourceTree = "<group>"; };
+		9DBDAA202BEB852100CC6232 /* HackerRankInAString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HackerRankInAString.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +136,7 @@
 			children = (
 				9D965FF02BE8F45400C2BB46 /* CaesarCipher.hpp */,
 				9D965FFE2BEA2AD200C2BB46 /* MarsExploration.hpp */,
+				9DBDAA202BEB852100CC6232 /* HackerRankInAString.hpp */,
 			);
 			path = Strings;
 			sourceTree = "<group>";
