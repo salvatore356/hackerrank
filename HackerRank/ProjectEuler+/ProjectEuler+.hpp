@@ -14,5 +14,5 @@
 #include "LargestPrimeFactor.hpp"
 #include "SumSquareDifference.hpp"
 #include "10001stPrime.hpp"
-
+#include "LargestProductInASeries.hpp"
 #endif /* ProjectEuler__hpp */

@@ -98,6 +98,7 @@
 		9DBDAA202BEB852100CC6232 /* HackerRankInAString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HackerRankInAString.hpp; sourceTree = "<group>"; };
 		9DBDAA232BEB89BA00CC6232 /* Quicksort1Partition.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Quicksort1Partition.hpp; sourceTree = "<group>"; };
 		9DBDAA262BEB8B7500CC6232 /* Pangrams.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Pangrams.hpp; sourceTree = "<group>"; };
+		9DBDAA292BEB8F3800CC6232 /* LargestProductInASeries.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LargestProductInASeries.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +121,7 @@
 				9D965FE52BE5374C00C2BB46 /* LargestPrimeFactor.hpp */,
 				9D965FF32BE8F75600C2BB46 /* SumSquareDifference.hpp */,
 				9D9660042BEA392D00C2BB46 /* 10001stPrime.hpp */,
+				9DBDAA292BEB8F3800CC6232 /* LargestProductInASeries.hpp */,
 			);
 			path = "ProjectEuler+";
 			sourceTree = "<group>";
