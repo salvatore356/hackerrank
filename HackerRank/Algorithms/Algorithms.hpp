@@ -48,5 +48,6 @@
 #include "Strings/CaesarCipher.hpp"
 #include "Strings/MarsExploration.hpp"
 #include "Strings/HackerRankInAString.hpp"
+#include "Strings/Pangrams.hpp"
 
 #endif /* Algorithms_hpp */

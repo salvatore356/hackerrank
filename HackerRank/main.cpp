@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    Quicksort1Partition::test();
+    Pangrams::test();
     return 0;
 }
