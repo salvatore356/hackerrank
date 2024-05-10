@@ -58,6 +58,8 @@ namespace LargestProductInASeries {
             getline(output, t_out);
             assert(result == stol(t_out), to_string(result) + " == " + t_out);
         }
+        
+        
     }
 }
 

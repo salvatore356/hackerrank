@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    LargestProductInASeries::test();
+    WeightedUniformStrings::test();
     return 0;
 }

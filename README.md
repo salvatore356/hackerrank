@@ -95,6 +95,7 @@ Happy coding!
 | Mars Exploration | [C++](./HackerRank/Algorithms/Strings/MarsExploration.hpp) | Easy | - |
 | HackerRank in a String! | [C++](./HackerRank/Algorithms/Strings/HackerRankInAString.hpp) | Easy | - |
 | Pangrams | [C++](./HackerRank/Algorithms/Strings/Pangrams.hpp) | Easy | - |
+| Weighted Uniform Strings | [C++](./HackerRank/Algorithms/Strings/WeightedUniformStrings.hpp) | Easy | - |
 
 ## Project Euler
 

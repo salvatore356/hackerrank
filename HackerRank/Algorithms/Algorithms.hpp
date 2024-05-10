@@ -49,5 +49,6 @@
 #include "Strings/MarsExploration.hpp"
 #include "Strings/HackerRankInAString.hpp"
 #include "Strings/Pangrams.hpp"
+#include "Strings/WeightedUniformStrings.hpp"
 
 #endif /* Algorithms_hpp */
