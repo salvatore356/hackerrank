@@ -51,5 +51,6 @@
 #include "Strings/Pangrams.hpp"
 #include "Strings/WeightedUniformStrings.hpp"
 #include "Strings/SeparateTheNumbers.hpp"
+#include "Strings/FunnyString.hpp"
 
 #endif /* Algorithms_hpp */

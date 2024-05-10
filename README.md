@@ -97,6 +97,7 @@ Happy coding!
 | Pangrams | [C++](./HackerRank/Algorithms/Strings/Pangrams.hpp) | Easy | - |
 | Weighted Uniform Strings | [C++](./HackerRank/Algorithms/Strings/WeightedUniformStrings.hpp) | Easy | - |
 | Separate the Numbers | [C++](./HackerRank/Algorithms/Strings/SeparateTheNumbers.hpp) | Easy | - |
+| Funny String | [C++](./HackerRank/Algorithms/Strings/FunnyString.hpp) | Easy | - |
 
 ## Project Euler
 

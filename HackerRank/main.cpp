@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    SeparateTheNumbers::test();
+    FunnyString::test();
     return 0;
 }
