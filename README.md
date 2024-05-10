@@ -96,6 +96,7 @@ Happy coding!
 | HackerRank in a String! | [C++](./HackerRank/Algorithms/Strings/HackerRankInAString.hpp) | Easy | - |
 | Pangrams | [C++](./HackerRank/Algorithms/Strings/Pangrams.hpp) | Easy | - |
 | Weighted Uniform Strings | [C++](./HackerRank/Algorithms/Strings/WeightedUniformStrings.hpp) | Easy | - |
+| Separate the Numbers | [C++](./HackerRank/Algorithms/Strings/SeparateTheNumbers.hpp) | Easy | - |
 
 ## Project Euler
 

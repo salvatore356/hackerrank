@@ -50,5 +50,6 @@
 #include "Strings/HackerRankInAString.hpp"
 #include "Strings/Pangrams.hpp"
 #include "Strings/WeightedUniformStrings.hpp"
+#include "Strings/SeparateTheNumbers.hpp"
 
 #endif /* Algorithms_hpp */
