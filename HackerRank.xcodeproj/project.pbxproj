@@ -46,6 +46,7 @@
 		9D937EFE2BEE2A5500018144 /* FunnyString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FunnyString.hpp; sourceTree = "<group>"; };
 		9D937F1A2BF2042400018144 /* CountingSort1.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CountingSort1.hpp; sourceTree = "<group>"; };
 		9D937F1D2BF208DB00018144 /* CountingSort2.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CountingSort2.hpp; sourceTree = "<group>"; };
+		9D937F202BF20DEC00018144 /* LargestProductInAGrid.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LargestProductInAGrid.hpp; sourceTree = "<group>"; };
 		9D965F942BE10FCA00C2BB46 /* StrangeCounter.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = StrangeCounter.hpp; sourceTree = "<group>"; };
 		9D965FAF2BE2944C00C2BB46 /* BigSorting.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BigSorting.hpp; sourceTree = "<group>"; };
 		9D965FBD2BE2A01A00C2BB46 /* SuperReducedString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SuperReducedString.hpp; sourceTree = "<group>"; };
@@ -127,6 +128,7 @@
 				9D965FF32BE8F75600C2BB46 /* SumSquareDifference.hpp */,
 				9D9660042BEA392D00C2BB46 /* 10001stPrime.hpp */,
 				9DBDAA292BEB8F3800CC6232 /* LargestProductInASeries.hpp */,
+				9D937F202BF20DEC00018144 /* LargestProductInAGrid.hpp */,
 			);
 			path = "ProjectEuler+";
 			sourceTree = "<group>";

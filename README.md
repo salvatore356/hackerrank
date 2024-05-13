@@ -111,3 +111,5 @@ Happy coding!
 | Project Euler #6: Sum square difference | [C++](./HackerRank/ProjectEuler+/SumSquareDifference.hpp) | Easy | - |
 | Project Euler #7: 10001st prime | [C++](./HackerRank/ProjectEuler+/10001stPrime.hpp) | Easy | - |
 | Project Euler #8: Largest product in a series | [C++](./HackerRank/ProjectEuler+/LargestProductInASeries.hpp) | Easy | - |
+| Project Euler #11: Largest product in a grid | [C++](./HackerRank/ProjectEuler+/LargestProductInAGrid.hpp) | Easy | - |
+

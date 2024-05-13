@@ -15,4 +15,6 @@
 #include "SumSquareDifference.hpp"
 #include "10001stPrime.hpp"
 #include "LargestProductInASeries.hpp"
+#include "LargestProductInAGrid.hpp"
+
 #endif /* ProjectEuler__hpp */
