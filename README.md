@@ -86,6 +86,7 @@ Happy coding!
 | Correctness And The Loop Invariant | [C++](./HackerRank/Algorithms/Sorting/CorrectnessAndTheLoopInvariant.hpp) | Easy | - |
 | Running Time Of Algorithms | [C++](./HackerRank/Algorithms/Sorting/RunningTimeOfAlgorithms.hpp) | Easy | - |
 | Quicksort 1 - Partition | [C++](./HackerRank/Algorithms/Sorting/Quicksort1Partition.hpp) | Easy | - |
+| Counting Sort 1 | [C++](./HackerRank/Algorithms/Sorting/CountingSort1.hpp) | Easy | - |
 
 ## Strings
 

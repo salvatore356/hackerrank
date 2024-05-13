@@ -97,4 +97,15 @@ vector<string> split_string(string input_string) {
     return splits;
 }
 
+template <typename T>
+string vector_to_string(vector<T> &arr){
+    string ans = "";
+    
+    for (int i = 0; i < arr.size(); ++i) {
+        ans += to_string(arr[i]) + " ";
+    }
+    
+    return trim(ans);
+}
+
 #endif /* Utils_hpp */

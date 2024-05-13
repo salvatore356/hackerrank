@@ -44,6 +44,7 @@
 #include "Sorting/CorrectnessAndTheLoopInvariant.hpp"
 #include "Sorting/RunningTimeOfAlgorithms.hpp"
 #include "Sorting/Quicksort1Partition.hpp"
+#include "Sorting/CountingSort1.hpp"
 
 #include "Strings/CaesarCipher.hpp"
 #include "Strings/MarsExploration.hpp"
