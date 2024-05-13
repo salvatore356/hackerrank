@@ -87,6 +87,7 @@ Happy coding!
 | Running Time Of Algorithms | [C++](./HackerRank/Algorithms/Sorting/RunningTimeOfAlgorithms.hpp) | Easy | - |
 | Quicksort 1 - Partition | [C++](./HackerRank/Algorithms/Sorting/Quicksort1Partition.hpp) | Easy | - |
 | Counting Sort 1 | [C++](./HackerRank/Algorithms/Sorting/CountingSort1.hpp) | Easy | - |
+| Counting Sort 2 | [C++](./HackerRank/Algorithms/Sorting/CountingSort2.hpp) | Easy | - |
 
 ## Strings
 

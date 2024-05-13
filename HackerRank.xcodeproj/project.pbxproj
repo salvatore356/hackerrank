@@ -45,6 +45,7 @@
 		9D937EFB2BEE285A00018144 /* SeparateTheNumbers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SeparateTheNumbers.hpp; sourceTree = "<group>"; };
 		9D937EFE2BEE2A5500018144 /* FunnyString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FunnyString.hpp; sourceTree = "<group>"; };
 		9D937F1A2BF2042400018144 /* CountingSort1.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CountingSort1.hpp; sourceTree = "<group>"; };
+		9D937F1D2BF208DB00018144 /* CountingSort2.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CountingSort2.hpp; sourceTree = "<group>"; };
 		9D965F942BE10FCA00C2BB46 /* StrangeCounter.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = StrangeCounter.hpp; sourceTree = "<group>"; };
 		9D965FAF2BE2944C00C2BB46 /* BigSorting.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BigSorting.hpp; sourceTree = "<group>"; };
 		9D965FBD2BE2A01A00C2BB46 /* SuperReducedString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SuperReducedString.hpp; sourceTree = "<group>"; };
@@ -137,6 +138,7 @@
 				9D9660012BEA2DCB00C2BB46 /* RunningTimeOfAlgorithms.hpp */,
 				9DBDAA232BEB89BA00CC6232 /* Quicksort1Partition.hpp */,
 				9D937F1A2BF2042400018144 /* CountingSort1.hpp */,
+				9D937F1D2BF208DB00018144 /* CountingSort2.hpp */,
 			);
 			path = Sorting;
 			sourceTree = "<group>";

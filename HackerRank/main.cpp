@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    CountingSort1::test();
+    CountingSort2::test();
     return 0;
 }
