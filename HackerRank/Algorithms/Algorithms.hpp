@@ -55,5 +55,6 @@
 #include "Strings/SeparateTheNumbers.hpp"
 #include "Strings/FunnyString.hpp"
 #include "Strings/Gemstones.hpp"
+#include "Strings/BeautifulBinaryString.hpp"
 
 #endif /* Algorithms_hpp */

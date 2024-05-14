@@ -101,6 +101,7 @@ Happy coding!
 | Separate the Numbers | [C++](./HackerRank/Algorithms/Strings/SeparateTheNumbers.hpp) | Easy | - |
 | Funny String | [C++](./HackerRank/Algorithms/Strings/FunnyString.hpp) | Easy | - |
 | Gemstones | [C++](./HackerRank/Algorithms/Strings/Gemstones.hpp) | Easy | - |
+| Beautiful Binary String | [C++](./HackerRank/Algorithms/Strings/BeautifulBinaryString.hpp) | Easy | - |
 
 ## Project Euler
 
