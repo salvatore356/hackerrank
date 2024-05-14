@@ -14,7 +14,7 @@ namespace FunnyString {
 
     string funnyString(string s) {
         
-        int limit = s.size() - 1;
+        int limit = (int) s.size() - 1;
         
         for(int i = 0; i < limit; ++i) {
             

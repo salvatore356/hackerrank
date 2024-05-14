@@ -54,5 +54,6 @@
 #include "Strings/WeightedUniformStrings.hpp"
 #include "Strings/SeparateTheNumbers.hpp"
 #include "Strings/FunnyString.hpp"
+#include "Strings/Gemstones.hpp"
 
 #endif /* Algorithms_hpp */

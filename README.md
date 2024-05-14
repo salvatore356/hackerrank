@@ -100,6 +100,7 @@ Happy coding!
 | Weighted Uniform Strings | [C++](./HackerRank/Algorithms/Strings/WeightedUniformStrings.hpp) | Easy | - |
 | Separate the Numbers | [C++](./HackerRank/Algorithms/Strings/SeparateTheNumbers.hpp) | Easy | - |
 | Funny String | [C++](./HackerRank/Algorithms/Strings/FunnyString.hpp) | Easy | - |
+| Gemstones | [C++](./HackerRank/Algorithms/Strings/Gemstones.hpp) | Easy | - |
 
 ## Project Euler
 
