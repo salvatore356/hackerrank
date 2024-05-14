@@ -16,5 +16,6 @@
 #include "10001stPrime.hpp"
 #include "LargestProductInASeries.hpp"
 #include "LargestProductInAGrid.hpp"
+#include "LargestPalindromeProduct.hpp"
 
 #endif /* ProjectEuler__hpp */

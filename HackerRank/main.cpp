@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    BeautifulBinaryString::test();
+    LargestPalindromeProduct::test();
     return 0;
 }
