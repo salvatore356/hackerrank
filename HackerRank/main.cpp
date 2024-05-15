@@ -12,6 +12,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    LargestPalindromeProduct::test();
+    TheLoveLetterMystery::test();
     return 0;
 }
