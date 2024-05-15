@@ -88,6 +88,7 @@ Happy coding!
 | Quicksort 1 - Partition | [C++](./HackerRank/Algorithms/Sorting/Quicksort1Partition.hpp) | Easy | - |
 | Counting Sort 1 | [C++](./HackerRank/Algorithms/Sorting/CountingSort1.hpp) | Easy | - |
 | Counting Sort 2 | [C++](./HackerRank/Algorithms/Sorting/CountingSort2.hpp) | Easy | - |
+| Closest Numbers | [C++](./HackerRank/Algorithms/Sorting/ClosestNumbers.hpp) | Easy | - |
 
 ## Strings
 

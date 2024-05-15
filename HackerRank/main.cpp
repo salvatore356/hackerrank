@@ -11,7 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    TheLoveLetterMystery::test();
+    ClosestNumbers::test();
     return 0;
 }
