@@ -43,6 +43,7 @@
 		9D626C1E2BD991AE0049991E /* FairRations.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FairRations.hpp; sourceTree = "<group>"; };
 		9D7FCC8A2BF4A7F9001EB1BF /* TheLoveLetterMystery.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TheLoveLetterMystery.hpp; sourceTree = "<group>"; };
 		9D7FCC8D2BF4AA4F001EB1BF /* ClosestNumbers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ClosestNumbers.hpp; sourceTree = "<group>"; };
+		9D7FCC902BF4AE34001EB1BF /* SmallestMultiple.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SmallestMultiple.hpp; sourceTree = "<group>"; };
 		9D937EF82BEE177F00018144 /* WeightedUniformStrings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = WeightedUniformStrings.hpp; sourceTree = "<group>"; };
 		9D937EFB2BEE285A00018144 /* SeparateTheNumbers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SeparateTheNumbers.hpp; sourceTree = "<group>"; };
 		9D937EFE2BEE2A5500018144 /* FunnyString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FunnyString.hpp; sourceTree = "<group>"; };
@@ -135,6 +136,7 @@
 				9DBDAA292BEB8F3800CC6232 /* LargestProductInASeries.hpp */,
 				9D937F202BF20DEC00018144 /* LargestProductInAGrid.hpp */,
 				9D937F3E2BF356BF00018144 /* LargestPalindromeProduct.hpp */,
+				9D7FCC902BF4AE34001EB1BF /* SmallestMultiple.hpp */,
 			);
 			path = "ProjectEuler+";
 			sourceTree = "<group>";

@@ -113,6 +113,7 @@ Happy coding!
 | Project Euler #2: Even Fibonacci numbers | [C++](./HackerRank/ProjectEuler+/EvenFibonacciNumbers.hpp) | Easy | - |
 | Project Euler #3: Largest prime factor | [C++](./HackerRank/ProjectEuler+/LargestPrimeFactor.hpp) | Easy | - |
 | Project Euler #4: Largest palindrome product | [C++](./HackerRank/ProjectEuler+/LargestPalindromeProduct.hpp) | Medium | - |
+| Project Euler #5: Smallest multiple | [C++](./HackerRank/ProjectEuler+/SmallestMultiple.hpp) | Medium | - |
 | Project Euler #6: Sum square difference | [C++](./HackerRank/ProjectEuler+/SumSquareDifference.hpp) | Easy | - |
 | Project Euler #7: 10001st prime | [C++](./HackerRank/ProjectEuler+/10001stPrime.hpp) | Easy | - |
 | Project Euler #8: Largest product in a series | [C++](./HackerRank/ProjectEuler+/LargestProductInASeries.hpp) | Easy | - |

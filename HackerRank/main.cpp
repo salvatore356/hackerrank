@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    ClosestNumbers::test();
+    SmallestMultiple::test();
     return 0;
 }
