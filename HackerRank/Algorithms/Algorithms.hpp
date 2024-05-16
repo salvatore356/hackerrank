@@ -47,6 +47,7 @@
 #include "Sorting/CountingSort1.hpp"
 #include "Sorting/CountingSort2.hpp"
 #include "Sorting/ClosestNumbers.hpp"
+#include "Sorting/FindTheMedian.hpp"
 
 #include "Strings/CaesarCipher.hpp"
 #include "Strings/MarsExploration.hpp"

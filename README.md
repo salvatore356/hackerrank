@@ -89,6 +89,7 @@ Happy coding!
 | Counting Sort 1 | [C++](./HackerRank/Algorithms/Sorting/CountingSort1.hpp) | Easy | - |
 | Counting Sort 2 | [C++](./HackerRank/Algorithms/Sorting/CountingSort2.hpp) | Easy | - |
 | Closest Numbers | [C++](./HackerRank/Algorithms/Sorting/ClosestNumbers.hpp) | Easy | - |
+| Find The Median | [C++](./HackerRank/Algorithms/Sorting/FindTheMedian.hpp) | Easy | - |
 
 ## Strings
 
