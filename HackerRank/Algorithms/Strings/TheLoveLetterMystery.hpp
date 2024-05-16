@@ -13,7 +13,7 @@
 namespace TheLoveLetterMystery {
 
     int theLoveLetterMystery(string s) {
-        int limit = s.size() / 2;
+        int limit =(int) s.size() / 2;
         int changes = 0;
         
         for (int i = 0; i < limit; ++i) {

@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    SmallestMultiple::test();
+    PalindromeIndex::test();
     return 0;
 }

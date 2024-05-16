@@ -59,5 +59,6 @@
 #include "Strings/Gemstones.hpp"
 #include "Strings/BeautifulBinaryString.hpp"
 #include "Strings/TheLoveLetterMystery.hpp"
+#include "Strings/PalindromeIndex.hpp"
 
 #endif /* Algorithms_hpp */
