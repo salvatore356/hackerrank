@@ -46,6 +46,7 @@
 		9D7FCC902BF4AE34001EB1BF /* SmallestMultiple.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SmallestMultiple.hpp; sourceTree = "<group>"; };
 		9D7FCCA42BF6124E001EB1BF /* FindTheMedian.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FindTheMedian.hpp; sourceTree = "<group>"; };
 		9D7FCCA72BF614ED001EB1BF /* PalindromeIndex.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PalindromeIndex.hpp; sourceTree = "<group>"; };
+		9D7FCCAA2BF61ED3001EB1BF /* SpecialPythagoreanTriplet.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SpecialPythagoreanTriplet.hpp; sourceTree = "<group>"; };
 		9D937EF82BEE177F00018144 /* WeightedUniformStrings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = WeightedUniformStrings.hpp; sourceTree = "<group>"; };
 		9D937EFB2BEE285A00018144 /* SeparateTheNumbers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SeparateTheNumbers.hpp; sourceTree = "<group>"; };
 		9D937EFE2BEE2A5500018144 /* FunnyString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FunnyString.hpp; sourceTree = "<group>"; };
@@ -139,6 +140,7 @@
 				9D937F202BF20DEC00018144 /* LargestProductInAGrid.hpp */,
 				9D937F3E2BF356BF00018144 /* LargestPalindromeProduct.hpp */,
 				9D7FCC902BF4AE34001EB1BF /* SmallestMultiple.hpp */,
+				9D7FCCAA2BF61ED3001EB1BF /* SpecialPythagoreanTriplet.hpp */,
 			);
 			path = "ProjectEuler+";
 			sourceTree = "<group>";

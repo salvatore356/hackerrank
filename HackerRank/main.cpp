@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    PalindromeIndex::test();
+    SpecialPythagoreanTriplet::test();
     return 0;
 }
