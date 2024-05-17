@@ -60,5 +60,6 @@
 #include "Strings/BeautifulBinaryString.hpp"
 #include "Strings/TheLoveLetterMystery.hpp"
 #include "Strings/PalindromeIndex.hpp"
+#include "Strings/Anagram.hpp"
 
 #endif /* Algorithms_hpp */

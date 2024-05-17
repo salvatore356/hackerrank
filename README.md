@@ -106,6 +106,7 @@ Happy coding!
 | Beautiful Binary String | [C++](./HackerRank/Algorithms/Strings/BeautifulBinaryString.hpp) | Easy | - |
 | The Love-Letter Mystery | [C++](./HackerRank/Algorithms/Strings/TheLoveLetterMystery.hpp) | Easy | - |
 | Palindrome Index | [C++](./HackerRank/Algorithms/Strings/PalindromeIndex.hpp) | Easy | - |
+| Anagram | [C++](./HackerRank/Algorithms/Strings/Anagram.hpp) | Easy | - |
 
 ## Project Euler
 

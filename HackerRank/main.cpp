@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    SpecialPythagoreanTriplet::test();
+    Anagram::test();
     return 0;
 }
