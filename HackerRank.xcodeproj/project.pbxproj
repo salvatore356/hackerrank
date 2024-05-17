@@ -49,6 +49,7 @@
 		9D7FCCAA2BF61ED3001EB1BF /* SpecialPythagoreanTriplet.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SpecialPythagoreanTriplet.hpp; sourceTree = "<group>"; };
 		9D7FCCB02BF747B7001EB1BF /* Anagram.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Anagram.hpp; sourceTree = "<group>"; };
 		9D7FCCB32BF74F3D001EB1BF /* MakingAnagrams.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MakingAnagrams.hpp; sourceTree = "<group>"; };
+		9D7FCCB62BF76928001EB1BF /* SummationOfPrimes.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SummationOfPrimes.hpp; sourceTree = "<group>"; };
 		9D937EF82BEE177F00018144 /* WeightedUniformStrings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = WeightedUniformStrings.hpp; sourceTree = "<group>"; };
 		9D937EFB2BEE285A00018144 /* SeparateTheNumbers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SeparateTheNumbers.hpp; sourceTree = "<group>"; };
 		9D937EFE2BEE2A5500018144 /* FunnyString.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FunnyString.hpp; sourceTree = "<group>"; };
@@ -143,6 +144,7 @@
 				9D937F3E2BF356BF00018144 /* LargestPalindromeProduct.hpp */,
 				9D7FCC902BF4AE34001EB1BF /* SmallestMultiple.hpp */,
 				9D7FCCAA2BF61ED3001EB1BF /* SpecialPythagoreanTriplet.hpp */,
+				9D7FCCB62BF76928001EB1BF /* SummationOfPrimes.hpp */,
 			);
 			path = "ProjectEuler+";
 			sourceTree = "<group>";

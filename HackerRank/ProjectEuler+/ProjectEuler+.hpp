@@ -19,5 +19,6 @@
 #include "LargestPalindromeProduct.hpp"
 #include "SmallestMultiple.hpp"
 #include "SpecialPythagoreanTriplet.hpp"
+#include "SummationOfPrimes.hpp"
 
 #endif /* ProjectEuler__hpp */

@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    MakingAnagrams::test();
+    SummationOfPrimes::test();
     return 0;
 }

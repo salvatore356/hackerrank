@@ -122,6 +122,7 @@ Happy coding!
 | Project Euler #7: 10001st prime | [C++](./HackerRank/ProjectEuler+/10001stPrime.hpp) | Easy | - |
 | Project Euler #8: Largest product in a series | [C++](./HackerRank/ProjectEuler+/LargestProductInASeries.hpp) | Easy | - |
 | Project Euler #9: Special Pythagorean Triplet | [C++](./HackerRank/ProjectEuler+/SpecialPythagoreanTriplet.hpp) | Medium | - |
+| Project Euler #10: Summation of primes | [C++](./HackerRank/ProjectEuler+/SummationOfPrimes.hpp) | Medium | - |
 | Project Euler #11: Largest product in a grid | [C++](./HackerRank/ProjectEuler+/LargestProductInAGrid.hpp) | Easy | - |
 
 
