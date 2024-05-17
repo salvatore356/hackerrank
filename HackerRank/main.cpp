@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    Anagram::test();
+    MakingAnagrams::test();
     return 0;
 }

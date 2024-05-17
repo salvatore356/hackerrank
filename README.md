@@ -107,6 +107,7 @@ Happy coding!
 | The Love-Letter Mystery | [C++](./HackerRank/Algorithms/Strings/TheLoveLetterMystery.hpp) | Easy | - |
 | Palindrome Index | [C++](./HackerRank/Algorithms/Strings/PalindromeIndex.hpp) | Easy | - |
 | Anagram | [C++](./HackerRank/Algorithms/Strings/Anagram.hpp) | Easy | - |
+| Making Anagrams | [C++](./HackerRank/Algorithms/Strings/MakingAnagrams.hpp) | Easy | - |
 
 ## Project Euler
 

@@ -108,4 +108,13 @@ string vector_to_string(vector<T> &arr){
     return trim(ans);
 }
 
+string remove_extension(string s) {
+    
+    auto lastindex = s.find_last_of(".");
+
+    if (lastindex == std::string::npos) return s;
+    return s.substr(0, lastindex);
+    
+}
+
 #endif /* Utils_hpp */

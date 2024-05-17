@@ -61,5 +61,6 @@
 #include "Strings/TheLoveLetterMystery.hpp"
 #include "Strings/PalindromeIndex.hpp"
 #include "Strings/Anagram.hpp"
+#include "Strings/MakingAnagrams.hpp"
 
 #endif /* Algorithms_hpp */
