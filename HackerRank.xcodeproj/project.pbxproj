@@ -104,6 +104,7 @@
 		9D975B0F2BBD339500B38A1E /* LibraryFine.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LibraryFine.hpp; sourceTree = "<group>"; };
 		9DAC02CF2BFBC5FC00A5D3A0 /* GameOfThronesI.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GameOfThronesI.hpp; sourceTree = "<group>"; };
 		9DAC02D22BFC92F100A5D3A0 /* StringConstruction.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = StringConstruction.hpp; sourceTree = "<group>"; };
+		9DAC02D62BFC955400A5D3A0 /* IceCreamParlor.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IceCreamParlor.hpp; sourceTree = "<group>"; };
 		9DAC36692BB5AC700070D4DE /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DAC366C2BB5AC700070D4DE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		9DAC36762BB5ACBB0070D4DE /* Staircase.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Staircase.hpp; sourceTree = "<group>"; };
@@ -239,6 +240,14 @@
 			path = Utils;
 			sourceTree = "<group>";
 		};
+		9DAC02D42BFC954700A5D3A0 /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				9DAC02D62BFC955400A5D3A0 /* IceCreamParlor.hpp */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
 		9DAC36602BB5AC700070D4DE = {
 			isa = PBXGroup;
 			children = (
@@ -270,6 +279,7 @@
 		9DAC36732BB5AC970070D4DE /* Algorithms */ = {
 			isa = PBXGroup;
 			children = (
+				9DAC02D42BFC954700A5D3A0 /* Search */,
 				9D965FEE2BE8F44700C2BB46 /* Strings */,
 				9D965FEA2BE8F08D00C2BB46 /* Sorting */,
 				9D975A962BB8D11100B38A1E /* Implementation */,

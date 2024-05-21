@@ -65,4 +65,6 @@
 #include "Strings/GameOfThronesI.hpp"
 #include "Strings/StringConstruction.hpp"
 
+#include "Search/IceCreamParlor.hpp"
+
 #endif /* Algorithms_hpp */

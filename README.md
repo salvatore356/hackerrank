@@ -111,6 +111,10 @@ Happy coding!
 | Game of Thrones - I | [C++](./HackerRank/Algorithms/Strings/GameOfThronesI.hpp) | Easy | - |
 | String Construction | [C++](./HackerRank/Algorithms/Strings/StringConstruction.hpp) | Easy | - |
 
+## Search
+
+| Ice Cream Parlor | [C++](./HackerRank/Algorithms/Search/IceCreamParlor.hpp) | Easy | - |
+
 ## Project Euler
 
 | Title | Solution | Difficulty | Elaboration |
