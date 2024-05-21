@@ -113,6 +113,8 @@ Happy coding!
 
 ## Search
 
+| Title | Solution | Difficulty | Elaboration |
+| ----- | -------- | ---------- | ----------- |
 | Ice Cream Parlor | [C++](./HackerRank/Algorithms/Search/IceCreamParlor.hpp) | Easy | - |
 
 ## Project Euler
