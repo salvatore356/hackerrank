@@ -62,5 +62,6 @@
 #include "Strings/PalindromeIndex.hpp"
 #include "Strings/Anagram.hpp"
 #include "Strings/MakingAnagrams.hpp"
+#include "Strings/GameOfThronesI.hpp"
 
 #endif /* Algorithms_hpp */

@@ -108,6 +108,7 @@ Happy coding!
 | Palindrome Index | [C++](./HackerRank/Algorithms/Strings/PalindromeIndex.hpp) | Easy | - |
 | Anagram | [C++](./HackerRank/Algorithms/Strings/Anagram.hpp) | Easy | - |
 | Making Anagrams | [C++](./HackerRank/Algorithms/Strings/MakingAnagrams.hpp) | Easy | - |
+| Game of Thrones - I | [C++](./HackerRank/Algorithms/Strings/GameOfThronesI.hpp) | Easy | - |
 
 ## Project Euler
 

@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    SummationOfPrimes::test();
+    GameOfThronesI::test();
     return 0;
 }
