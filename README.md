@@ -109,6 +109,7 @@ Happy coding!
 | Anagram | [C++](./HackerRank/Algorithms/Strings/Anagram.hpp) | Easy | - |
 | Making Anagrams | [C++](./HackerRank/Algorithms/Strings/MakingAnagrams.hpp) | Easy | - |
 | Game of Thrones - I | [C++](./HackerRank/Algorithms/Strings/GameOfThronesI.hpp) | Easy | - |
+| String Construction | [C++](./HackerRank/Algorithms/Strings/StringConstruction.hpp) | Easy | - |
 
 ## Project Euler
 

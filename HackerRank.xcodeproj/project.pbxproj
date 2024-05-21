@@ -103,6 +103,7 @@
 		9D975ACD2BBC096200B38A1E /* SherlockAndSquares.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SherlockAndSquares.hpp; sourceTree = "<group>"; };
 		9D975B0F2BBD339500B38A1E /* LibraryFine.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LibraryFine.hpp; sourceTree = "<group>"; };
 		9DAC02CF2BFBC5FC00A5D3A0 /* GameOfThronesI.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GameOfThronesI.hpp; sourceTree = "<group>"; };
+		9DAC02D22BFC92F100A5D3A0 /* StringConstruction.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = StringConstruction.hpp; sourceTree = "<group>"; };
 		9DAC36692BB5AC700070D4DE /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DAC366C2BB5AC700070D4DE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		9DAC36762BB5ACBB0070D4DE /* Staircase.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Staircase.hpp; sourceTree = "<group>"; };
@@ -181,6 +182,7 @@
 				9D7FCCB02BF747B7001EB1BF /* Anagram.hpp */,
 				9D7FCCB32BF74F3D001EB1BF /* MakingAnagrams.hpp */,
 				9DAC02CF2BFBC5FC00A5D3A0 /* GameOfThronesI.hpp */,
+				9DAC02D22BFC92F100A5D3A0 /* StringConstruction.hpp */,
 			);
 			path = Strings;
 			sourceTree = "<group>";

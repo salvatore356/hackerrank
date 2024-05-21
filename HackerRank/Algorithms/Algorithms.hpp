@@ -63,5 +63,6 @@
 #include "Strings/Anagram.hpp"
 #include "Strings/MakingAnagrams.hpp"
 #include "Strings/GameOfThronesI.hpp"
+#include "Strings/StringConstruction.hpp"
 
 #endif /* Algorithms_hpp */
