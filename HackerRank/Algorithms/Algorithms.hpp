@@ -66,5 +66,6 @@
 #include "Strings/StringConstruction.hpp"
 
 #include "Search/IceCreamParlor.hpp"
+#include "Search/MissingNumbers.hpp"
 
 #endif /* Algorithms_hpp */

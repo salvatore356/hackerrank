@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    IceCreamParlor::test();
+    MissingNumbers::test();
     return 0;
 }

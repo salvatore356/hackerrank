@@ -116,6 +116,7 @@ Happy coding!
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
 | Ice Cream Parlor | [C++](./HackerRank/Algorithms/Search/IceCreamParlor.hpp) | Easy | - |
+| Missing Numbers | [C++](./HackerRank/Algorithms/Search/MissingNumbers.hpp) | Easy | - |
 
 ## Project Euler
 
