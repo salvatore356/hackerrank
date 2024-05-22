@@ -138,4 +138,4 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
-| Marc's Cakewalk | [C++](./HackerRank/Algorithms/Greddy/MarcsCakewalk.hpp) | Easy | - |
+| Marc's Cakewalk | [C++](./HackerRank/Algorithms/Greedy/MarcsCakewalk.hpp) | Easy | - |
