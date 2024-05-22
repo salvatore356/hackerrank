@@ -134,4 +134,8 @@ Happy coding!
 | Project Euler #10: Summation of primes | [C++](./HackerRank/ProjectEuler+/SummationOfPrimes.hpp) | Medium | - |
 | Project Euler #11: Largest product in a grid | [C++](./HackerRank/ProjectEuler+/LargestProductInAGrid.hpp) | Easy | - |
 
+## Greedy
 
+| Title | Solution | Difficulty | Elaboration |
+| ----- | -------- | ---------- | ----------- |
+| Marc's Cakewalk | [C++](./HackerRank/Algorithms/Greddy/MarcsCakewalk.hpp) | Easy | - |

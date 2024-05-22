@@ -121,6 +121,7 @@
 		9DBDAA232BEB89BA00CC6232 /* Quicksort1Partition.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Quicksort1Partition.hpp; sourceTree = "<group>"; };
 		9DBDAA262BEB8B7500CC6232 /* Pangrams.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Pangrams.hpp; sourceTree = "<group>"; };
 		9DBDAA292BEB8F3800CC6232 /* LargestProductInASeries.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LargestProductInASeries.hpp; sourceTree = "<group>"; };
+		9DE918D82BFDEF1700A743A4 /* MarcsCakewalk.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MarcsCakewalk.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -281,6 +282,7 @@
 		9DAC36732BB5AC970070D4DE /* Algorithms */ = {
 			isa = PBXGroup;
 			children = (
+				9DE918D62BFDEF0600A743A4 /* Greedy */,
 				9DAC02D42BFC954700A5D3A0 /* Search */,
 				9D965FEE2BE8F44700C2BB46 /* Strings */,
 				9D965FEA2BE8F08D00C2BB46 /* Sorting */,
@@ -314,6 +316,14 @@
 				9D975A942BB8CFB200B38A1E /* PickingNumbers.hpp */,
 			);
 			path = Warmup;
+			sourceTree = "<group>";
+		};
+		9DE918D62BFDEF0600A743A4 /* Greedy */ = {
+			isa = PBXGroup;
+			children = (
+				9DE918D82BFDEF1700A743A4 /* MarcsCakewalk.hpp */,
+			);
+			path = Greedy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

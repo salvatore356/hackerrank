@@ -68,4 +68,6 @@
 #include "Search/IceCreamParlor.hpp"
 #include "Search/MissingNumbers.hpp"
 
+#include "Greedy/MarcsCakewalk.hpp"
+
 #endif /* Algorithms_hpp */
