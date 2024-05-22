@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    MarcsCakewalk::test();
+    SherlockAndArray::test();
     return 0;
 }

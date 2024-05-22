@@ -117,6 +117,7 @@ Happy coding!
 | ----- | -------- | ---------- | ----------- |
 | Ice Cream Parlor | [C++](./HackerRank/Algorithms/Search/IceCreamParlor.hpp) | Easy | - |
 | Missing Numbers | [C++](./HackerRank/Algorithms/Search/MissingNumbers.hpp) | Easy | - |
+| Sherlock and Array | [C++](./HackerRank/Algorithms/Search/SherlockAndArray.hpp) | Easy | - |
 
 ## Project Euler
 

@@ -67,6 +67,7 @@
 
 #include "Search/IceCreamParlor.hpp"
 #include "Search/MissingNumbers.hpp"
+#include "Search/SherlockAndArray.hpp"
 
 #include "Greedy/MarcsCakewalk.hpp"
 

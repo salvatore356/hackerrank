@@ -122,6 +122,7 @@
 		9DBDAA262BEB8B7500CC6232 /* Pangrams.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Pangrams.hpp; sourceTree = "<group>"; };
 		9DBDAA292BEB8F3800CC6232 /* LargestProductInASeries.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LargestProductInASeries.hpp; sourceTree = "<group>"; };
 		9DE918D82BFDEF1700A743A4 /* MarcsCakewalk.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MarcsCakewalk.hpp; sourceTree = "<group>"; };
+		9DE918DB2BFDF33100A743A4 /* SherlockAndArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SherlockAndArray.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -247,6 +248,7 @@
 			children = (
 				9DAC02D62BFC955400A5D3A0 /* IceCreamParlor.hpp */,
 				9DAC02D92BFC977D00A5D3A0 /* MissingNumbers.hpp */,
+				9DE918DB2BFDF33100A743A4 /* SherlockAndArray.hpp */,
 			);
 			path = Search;
 			sourceTree = "<group>";
