@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    GridChallenge::test();
+    MaximumPerimeterTriangle::test();
     return 0;
 }

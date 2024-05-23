@@ -141,3 +141,4 @@ Happy coding!
 | ----- | -------- | ---------- | ----------- |
 | Marc's Cakewalk | [C++](./HackerRank/Algorithms/Greedy/MarcsCakewalk.hpp) | Easy | - |
 | Grid Challenge | [C++](./HackerRank/Algorithms/Greedy/GridChallenge.hpp) | Easy | - |
+| Maximum Perimeter Triangle | [C++](./HackerRank/Algorithms/Greedy/MaximumPerimeterTriangle.hpp) | Easy | - |
