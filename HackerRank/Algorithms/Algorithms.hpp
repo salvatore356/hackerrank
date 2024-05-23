@@ -70,5 +70,6 @@
 #include "Search/SherlockAndArray.hpp"
 
 #include "Greedy/MarcsCakewalk.hpp"
+#include "Greedy/GridChallenge.hpp"
 
 #endif /* Algorithms_hpp */

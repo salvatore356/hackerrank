@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    SherlockAndArray::test();
+    GridChallenge::test();
     return 0;
 }
