@@ -72,5 +72,6 @@
 #include "Greedy/MarcsCakewalk.hpp"
 #include "Greedy/GridChallenge.hpp"
 #include "Greedy/MaximumPerimeterTriangle.hpp"
+#include "Greedy/BeautifulPairs.hpp"
 
 #endif /* Algorithms_hpp */

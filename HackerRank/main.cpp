@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    MaximumPerimeterTriangle::test();
+    BeautifulPairs::test();
     return 0;
 }
