@@ -73,5 +73,6 @@
 #include "Greedy/GridChallenge.hpp"
 #include "Greedy/MaximumPerimeterTriangle.hpp"
 #include "Greedy/BeautifulPairs.hpp"
+#include "Greedy/SherlockAndTheBeast.hpp"
 
 #endif /* Algorithms_hpp */

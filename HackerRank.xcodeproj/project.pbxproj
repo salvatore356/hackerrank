@@ -126,6 +126,7 @@
 		9DE919002BFF2FBD00A743A4 /* GridChallenge.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GridChallenge.hpp; sourceTree = "<group>"; };
 		9DE919032BFF3AE500A743A4 /* MaximumPerimeterTriangle.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MaximumPerimeterTriangle.hpp; sourceTree = "<group>"; };
 		9DE9190B2C00B30000A743A4 /* BeautifulPairs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BeautifulPairs.hpp; sourceTree = "<group>"; };
+		9DE9190E2C00BF7B00A743A4 /* SherlockAndTheBeast.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SherlockAndTheBeast.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -330,6 +331,7 @@
 				9DE919002BFF2FBD00A743A4 /* GridChallenge.hpp */,
 				9DE919032BFF3AE500A743A4 /* MaximumPerimeterTriangle.hpp */,
 				9DE9190B2C00B30000A743A4 /* BeautifulPairs.hpp */,
+				9DE9190E2C00BF7B00A743A4 /* SherlockAndTheBeast.hpp */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";

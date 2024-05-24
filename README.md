@@ -143,3 +143,4 @@ Happy coding!
 | Grid Challenge | [C++](./HackerRank/Algorithms/Greedy/GridChallenge.hpp) | Easy | - |
 | Maximum Perimeter Triangle | [C++](./HackerRank/Algorithms/Greedy/MaximumPerimeterTriangle.hpp) | Easy | - |
 | Beautiful Pairs | [C++](./HackerRank/Algorithms/Greedy/BeautifulPairs.hpp) | Easy | - |
+| Sherlock and The Beast | [C++](./HackerRank/Algorithms/Greedy/SherlockAndTheBeast.hpp) | Easy | - |
