@@ -74,5 +74,6 @@
 #include "Greedy/MaximumPerimeterTriangle.hpp"
 #include "Greedy/BeautifulPairs.hpp"
 #include "Greedy/SherlockAndTheBeast.hpp"
+#include "Greedy/PriyankaAndToys.hpp"
 
 #endif /* Algorithms_hpp */

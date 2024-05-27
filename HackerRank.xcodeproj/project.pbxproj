@@ -25,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9D033DA82C04985F00005908 /* PriyankaAndToys.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PriyankaAndToys.hpp; sourceTree = "<group>"; };
 		9D1DBB282BCDA0E500ACA5D7 /* AppendAndDelete.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AppendAndDelete.hpp; sourceTree = "<group>"; };
 		9D1DBB2E2BCFCDF700ACA5D7 /* ACMICPCTeam.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ACMICPCTeam.hpp; sourceTree = "<group>"; };
 		9D1DBB342BD11F4900ACA5D7 /* TaumAndBday.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TaumAndBday.hpp; sourceTree = "<group>"; };
@@ -332,6 +333,7 @@
 				9DE919032BFF3AE500A743A4 /* MaximumPerimeterTriangle.hpp */,
 				9DE9190B2C00B30000A743A4 /* BeautifulPairs.hpp */,
 				9DE9190E2C00BF7B00A743A4 /* SherlockAndTheBeast.hpp */,
+				9D033DA82C04985F00005908 /* PriyankaAndToys.hpp */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
