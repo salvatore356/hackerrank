@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    PriyankaAndToys::test();
+    LargestPermutation::test();
     return 0;
 }

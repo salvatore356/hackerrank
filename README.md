@@ -145,3 +145,4 @@ Happy coding!
 | Beautiful Pairs | [C++](./HackerRank/Algorithms/Greedy/BeautifulPairs.hpp) | Easy | - |
 | Sherlock and The Beast | [C++](./HackerRank/Algorithms/Greedy/SherlockAndTheBeast.hpp) | Easy | - |
 | Priyanka and Toys | [C++](./HackerRank/Algorithms/Greedy/PriyankaAndToys.hpp) | Easy | - |
+| LargestPermutation | [C++](./HackerRank/Algorithms/Greedy/LargestPermutation.hpp) | Easy | - |
