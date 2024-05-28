@@ -77,5 +77,6 @@
 #include "Greedy/PriyankaAndToys.hpp"
 #include "Greedy/LargestPermutation.hpp"
 #include "Greedy/JimAndTheOrders.hpp"
+#include "Greedy/PermutingTwoArrays.hpp"
 
 #endif /* Algorithms_hpp */

@@ -147,3 +147,4 @@ Happy coding!
 | Priyanka and Toys | [C++](./HackerRank/Algorithms/Greedy/PriyankaAndToys.hpp) | Easy | - |
 | LargestPermutation | [C++](./HackerRank/Algorithms/Greedy/LargestPermutation.hpp) | Easy | - |
 | Jim And The Orders | [C++](./HackerRank/Algorithms/Greedy/JimAndTheOrders.hpp) | Easy | - |
+| Permuting Two Arrays | [C++](./HackerRank/Algorithms/Greedy/PermutingTwoArrays.hpp) | Easy | - |

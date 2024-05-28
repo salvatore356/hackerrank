@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    JimAndTheOrders::test();
+    PermutingTwoArrays::test();
     return 0;
 }
