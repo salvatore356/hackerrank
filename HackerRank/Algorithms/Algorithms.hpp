@@ -76,5 +76,6 @@
 #include "Greedy/SherlockAndTheBeast.hpp"
 #include "Greedy/PriyankaAndToys.hpp"
 #include "Greedy/LargestPermutation.hpp"
+#include "Greedy/JimAndTheOrders.hpp"
 
 #endif /* Algorithms_hpp */

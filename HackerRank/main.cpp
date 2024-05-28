@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    LargestPermutation::test();
+    JimAndTheOrders::test();
     return 0;
 }
