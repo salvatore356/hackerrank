@@ -79,4 +79,5 @@
 #include "Greedy/JimAndTheOrders.hpp"
 #include "Greedy/PermutingTwoArrays.hpp"
 
+#include "BitManipulation/LonelyInteger.hpp"
 #endif /* Algorithms_hpp */

@@ -29,6 +29,7 @@
 		9D033DAB2C049C9600005908 /* LargestPermutation.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LargestPermutation.hpp; sourceTree = "<group>"; };
 		9D033DBE2C05E41A00005908 /* JimAndTheOrders.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = JimAndTheOrders.hpp; sourceTree = "<group>"; };
 		9D033DC12C05E8DE00005908 /* PermutingTwoArrays.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PermutingTwoArrays.hpp; sourceTree = "<group>"; };
+		9D033DD02C072A2600005908 /* LonelyInteger.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LonelyInteger.hpp; sourceTree = "<group>"; };
 		9D1DBB282BCDA0E500ACA5D7 /* AppendAndDelete.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AppendAndDelete.hpp; sourceTree = "<group>"; };
 		9D1DBB2E2BCFCDF700ACA5D7 /* ACMICPCTeam.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ACMICPCTeam.hpp; sourceTree = "<group>"; };
 		9D1DBB342BD11F4900ACA5D7 /* TaumAndBday.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TaumAndBday.hpp; sourceTree = "<group>"; };
@@ -144,6 +145,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9D033DCE2C072A1100005908 /* BitManipulation */ = {
+			isa = PBXGroup;
+			children = (
+				9D033DD02C072A2600005908 /* LonelyInteger.hpp */,
+			);
+			path = BitManipulation;
+			sourceTree = "<group>";
+		};
 		9D965FC22BE2AC6C00C2BB46 /* ProjectEuler+ */ = {
 			isa = PBXGroup;
 			children = (
@@ -292,6 +301,7 @@
 		9DAC36732BB5AC970070D4DE /* Algorithms */ = {
 			isa = PBXGroup;
 			children = (
+				9D033DCE2C072A1100005908 /* BitManipulation */,
 				9DE918D62BFDEF0600A743A4 /* Greedy */,
 				9DAC02D42BFC954700A5D3A0 /* Search */,
 				9D965FEE2BE8F44700C2BB46 /* Strings */,

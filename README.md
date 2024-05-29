@@ -148,3 +148,9 @@ Happy coding!
 | LargestPermutation | [C++](./HackerRank/Algorithms/Greedy/LargestPermutation.hpp) | Easy | - |
 | Jim And The Orders | [C++](./HackerRank/Algorithms/Greedy/JimAndTheOrders.hpp) | Easy | - |
 | Permuting Two Arrays | [C++](./HackerRank/Algorithms/Greedy/PermutingTwoArrays.hpp) | Easy | - |
+
+## Bit Manipulation
+
+| Title | Solution | Difficulty | Elaboration |
+| ----- | -------- | ---------- | ----------- |
+| Lonely Integer | [C++](./HackerRank/Algorithms/BitManipulation/LonelyInteger.hpp) | Easy | - |

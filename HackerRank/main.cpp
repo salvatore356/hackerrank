@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    PermutingTwoArrays::test();
+    LonelyInteger::test();
     return 0;
 }
