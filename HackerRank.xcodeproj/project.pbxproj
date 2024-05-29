@@ -30,6 +30,7 @@
 		9D033DBE2C05E41A00005908 /* JimAndTheOrders.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = JimAndTheOrders.hpp; sourceTree = "<group>"; };
 		9D033DC12C05E8DE00005908 /* PermutingTwoArrays.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PermutingTwoArrays.hpp; sourceTree = "<group>"; };
 		9D033DD02C072A2600005908 /* LonelyInteger.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LonelyInteger.hpp; sourceTree = "<group>"; };
+		9D033DD32C072C3C00005908 /* MaximizingXOR.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MaximizingXOR.hpp; sourceTree = "<group>"; };
 		9D1DBB282BCDA0E500ACA5D7 /* AppendAndDelete.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AppendAndDelete.hpp; sourceTree = "<group>"; };
 		9D1DBB2E2BCFCDF700ACA5D7 /* ACMICPCTeam.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ACMICPCTeam.hpp; sourceTree = "<group>"; };
 		9D1DBB342BD11F4900ACA5D7 /* TaumAndBday.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TaumAndBday.hpp; sourceTree = "<group>"; };
@@ -149,6 +150,7 @@
 			isa = PBXGroup;
 			children = (
 				9D033DD02C072A2600005908 /* LonelyInteger.hpp */,
+				9D033DD32C072C3C00005908 /* MaximizingXOR.hpp */,
 			);
 			path = BitManipulation;
 			sourceTree = "<group>";

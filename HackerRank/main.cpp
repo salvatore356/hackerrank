@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    LonelyInteger::test();
+    MaximizingXOR::test();
     return 0;
 }

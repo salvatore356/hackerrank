@@ -80,4 +80,6 @@
 #include "Greedy/PermutingTwoArrays.hpp"
 
 #include "BitManipulation/LonelyInteger.hpp"
+#include "BitManipulation/MaximizingXOR.hpp"
+
 #endif /* Algorithms_hpp */
