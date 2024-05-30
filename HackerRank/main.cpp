@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    MaximizingXOR::test();
+    SumVsXOR::test();
     return 0;
 }

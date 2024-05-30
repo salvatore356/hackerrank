@@ -155,3 +155,4 @@ Happy coding!
 | ----- | -------- | ---------- | ----------- |
 | Lonely Integer | [C++](./HackerRank/Algorithms/BitManipulation/LonelyInteger.hpp) | Easy | - |
 | Maximizing XOR | [C++](./HackerRank/Algorithms/BitManipulation/MaximizingXOR.hpp) | Easy | - |
+| Sum vs XOR | [C++](./HackerRank/Algorithms/BitManipulation/SumVsXOR.hpp) | Easy | - |

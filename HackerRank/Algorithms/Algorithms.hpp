@@ -81,5 +81,6 @@
 
 #include "BitManipulation/LonelyInteger.hpp"
 #include "BitManipulation/MaximizingXOR.hpp"
+#include "BitManipulation/SumVsXOR.hpp"
 
 #endif /* Algorithms_hpp */

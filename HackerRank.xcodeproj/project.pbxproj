@@ -108,6 +108,7 @@
 		9D975AC72BB9031C00B38A1E /* FindDigits.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FindDigits.hpp; sourceTree = "<group>"; };
 		9D975ACD2BBC096200B38A1E /* SherlockAndSquares.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SherlockAndSquares.hpp; sourceTree = "<group>"; };
 		9D975B0F2BBD339500B38A1E /* LibraryFine.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LibraryFine.hpp; sourceTree = "<group>"; };
+		9DA31E542C09372A001F92A0 /* SumVsXOR.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SumVsXOR.hpp; sourceTree = "<group>"; };
 		9DAC02CF2BFBC5FC00A5D3A0 /* GameOfThronesI.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GameOfThronesI.hpp; sourceTree = "<group>"; };
 		9DAC02D22BFC92F100A5D3A0 /* StringConstruction.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = StringConstruction.hpp; sourceTree = "<group>"; };
 		9DAC02D62BFC955400A5D3A0 /* IceCreamParlor.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IceCreamParlor.hpp; sourceTree = "<group>"; };
@@ -151,6 +152,7 @@
 			children = (
 				9D033DD02C072A2600005908 /* LonelyInteger.hpp */,
 				9D033DD32C072C3C00005908 /* MaximizingXOR.hpp */,
+				9DA31E542C09372A001F92A0 /* SumVsXOR.hpp */,
 			);
 			path = BitManipulation;
 			sourceTree = "<group>";
