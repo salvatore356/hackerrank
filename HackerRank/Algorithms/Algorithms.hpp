@@ -83,4 +83,6 @@
 #include "BitManipulation/MaximizingXOR.hpp"
 #include "BitManipulation/SumVsXOR.hpp"
 
+#include "GameTheory/GameOfStones.hpp"
+
 #endif /* Algorithms_hpp */

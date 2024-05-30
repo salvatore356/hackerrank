@@ -109,6 +109,7 @@
 		9D975ACD2BBC096200B38A1E /* SherlockAndSquares.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SherlockAndSquares.hpp; sourceTree = "<group>"; };
 		9D975B0F2BBD339500B38A1E /* LibraryFine.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LibraryFine.hpp; sourceTree = "<group>"; };
 		9DA31E542C09372A001F92A0 /* SumVsXOR.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SumVsXOR.hpp; sourceTree = "<group>"; };
+		9DA31E582C093A00001F92A0 /* GameOfStones.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GameOfStones.hpp; sourceTree = "<group>"; };
 		9DAC02CF2BFBC5FC00A5D3A0 /* GameOfThronesI.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GameOfThronesI.hpp; sourceTree = "<group>"; };
 		9DAC02D22BFC92F100A5D3A0 /* StringConstruction.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = StringConstruction.hpp; sourceTree = "<group>"; };
 		9DAC02D62BFC955400A5D3A0 /* IceCreamParlor.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IceCreamParlor.hpp; sourceTree = "<group>"; };
@@ -264,6 +265,14 @@
 			path = Utils;
 			sourceTree = "<group>";
 		};
+		9DA31E562C0939DB001F92A0 /* GameTheory */ = {
+			isa = PBXGroup;
+			children = (
+				9DA31E582C093A00001F92A0 /* GameOfStones.hpp */,
+			);
+			path = GameTheory;
+			sourceTree = "<group>";
+		};
 		9DAC02D42BFC954700A5D3A0 /* Search */ = {
 			isa = PBXGroup;
 			children = (
@@ -305,6 +314,7 @@
 		9DAC36732BB5AC970070D4DE /* Algorithms */ = {
 			isa = PBXGroup;
 			children = (
+				9DA31E562C0939DB001F92A0 /* GameTheory */,
 				9D033DCE2C072A1100005908 /* BitManipulation */,
 				9DE918D62BFDEF0600A743A4 /* Greedy */,
 				9DAC02D42BFC954700A5D3A0 /* Search */,

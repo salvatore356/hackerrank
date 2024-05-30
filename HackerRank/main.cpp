@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    SumVsXOR::test();
+    GameOfStones::test();
     return 0;
 }
