@@ -163,3 +163,4 @@ Happy coding!
 | ----- | -------- | ---------- | ----------- |
 | Game Of Stones | [C++](./HackerRank/Algorithms/GameTheory/GameOfStones.hpp) | Easy | - |
 | Tower Breakers | [C++](./HackerRank/Algorithms/GameTheory/TowerBreakers.hpp) | Easy | - |
+| A Chessboard Game | [C++](./HackerRank/Algorithms/GameTheory/AChessboardGame.hpp) | Easy | - |
