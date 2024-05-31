@@ -84,5 +84,6 @@
 #include "BitManipulation/SumVsXOR.hpp"
 
 #include "GameTheory/GameOfStones.hpp"
+#include "GameTheory/TowerBreakers.hpp"
 
 #endif /* Algorithms_hpp */

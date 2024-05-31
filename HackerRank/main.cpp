@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    GameOfStones::test();
+    TowerBreakers::test();
     return 0;
 }

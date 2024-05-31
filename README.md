@@ -162,3 +162,4 @@ Happy coding!
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
 | Game Of Stones | [C++](./HackerRank/Algorithms/GameTheory/GameOfStones.hpp) | Easy | - |
+| Tower Breakers | [C++](./HackerRank/Algorithms/GameTheory/TowerBreakers.hpp) | Easy | - |
