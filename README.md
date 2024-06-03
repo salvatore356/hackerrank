@@ -165,3 +165,4 @@ Happy coding!
 | Tower Breakers | [C++](./HackerRank/Algorithms/GameTheory/TowerBreakers.hpp) | Easy | - |
 | A Chessboard Game | [C++](./HackerRank/Algorithms/GameTheory/AChessboardGame.hpp) | Easy | - |
 | Introduction to Nim Game | [C++](./HackerRank/Algorithms/GameTheory/IntroductionToNimGame.hpp) | Easy | - |
+| Misère Nim | [C++](./HackerRank/Algorithms/GameTheory/MisèreNim.hpp) | Easy | - |

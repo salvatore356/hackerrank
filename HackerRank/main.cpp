@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    AChessboardGame::test();
+    MisèreNim::test();
     return 0;
 }

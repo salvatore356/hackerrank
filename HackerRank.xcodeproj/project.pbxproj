@@ -132,6 +132,7 @@
 		9DBDAA262BEB8B7500CC6232 /* Pangrams.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Pangrams.hpp; sourceTree = "<group>"; };
 		9DBDAA292BEB8F3800CC6232 /* LargestProductInASeries.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LargestProductInASeries.hpp; sourceTree = "<group>"; };
 		9DDB3A032C0DB7540047F486 /* IntroductionToNimGame.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = IntroductionToNimGame.hpp; sourceTree = "<group>"; };
+		9DDB3A062C0DB9860047F486 /* MisèreNim.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "MisèreNim.hpp"; sourceTree = "<group>"; };
 		9DE918D82BFDEF1700A743A4 /* MarcsCakewalk.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MarcsCakewalk.hpp; sourceTree = "<group>"; };
 		9DE918DB2BFDF33100A743A4 /* SherlockAndArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SherlockAndArray.hpp; sourceTree = "<group>"; };
 		9DE919002BFF2FBD00A743A4 /* GridChallenge.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GridChallenge.hpp; sourceTree = "<group>"; };
@@ -275,6 +276,7 @@
 				9DA31E5F2C09EDA6001F92A0 /* TowerBreakers.hpp */,
 				9DA31E622C09F458001F92A0 /* AChessboardGame.hpp */,
 				9DDB3A032C0DB7540047F486 /* IntroductionToNimGame.hpp */,
+				9DDB3A062C0DB9860047F486 /* MisèreNim.hpp */,
 			);
 			path = GameTheory;
 			sourceTree = "<group>";
