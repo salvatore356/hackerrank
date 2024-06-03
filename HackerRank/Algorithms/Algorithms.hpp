@@ -86,5 +86,6 @@
 #include "GameTheory/GameOfStones.hpp"
 #include "GameTheory/TowerBreakers.hpp"
 #include "GameTheory/AChessboardGame.hpp"
+#include "GameTheory/IntroductionToNimGame.hpp"
 
 #endif /* Algorithms_hpp */
