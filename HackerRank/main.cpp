@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    NimbleGame::test();
+    PokerNim::test();
     return 0;
 }
