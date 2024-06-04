@@ -166,3 +166,4 @@ Happy coding!
 | A Chessboard Game | [C++](./HackerRank/Algorithms/GameTheory/AChessboardGame.hpp) | Easy | - |
 | Introduction to Nim Game | [C++](./HackerRank/Algorithms/GameTheory/IntroductionToNimGame.hpp) | Easy | - |
 | Misère Nim | [C++](./HackerRank/Algorithms/GameTheory/MisèreNim.hpp) | Easy | - |
+| Nimble Game | [C++](./HackerRank/Algorithms/GameTheory/NimbleGame.hpp) | Easy | - |

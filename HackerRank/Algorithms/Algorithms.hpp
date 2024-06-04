@@ -88,5 +88,6 @@
 #include "GameTheory/AChessboardGame.hpp"
 #include "GameTheory/IntroductionToNimGame.hpp"
 #include "GameTheory/MisèreNim.hpp"
+#include "GameTheory/NimbleGame.hpp"
 
 #endif /* Algorithms_hpp */

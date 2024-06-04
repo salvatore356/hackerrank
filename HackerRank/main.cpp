@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    MisèreNim::test();
+    NimbleGame::test();
     return 0;
 }

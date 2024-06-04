@@ -139,6 +139,7 @@
 		9DE919032BFF3AE500A743A4 /* MaximumPerimeterTriangle.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MaximumPerimeterTriangle.hpp; sourceTree = "<group>"; };
 		9DE9190B2C00B30000A743A4 /* BeautifulPairs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BeautifulPairs.hpp; sourceTree = "<group>"; };
 		9DE9190E2C00BF7B00A743A4 /* SherlockAndTheBeast.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SherlockAndTheBeast.hpp; sourceTree = "<group>"; };
+		9DF8C1622C0F08F000082C16 /* NimbleGame.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = NimbleGame.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -277,6 +278,7 @@
 				9DA31E622C09F458001F92A0 /* AChessboardGame.hpp */,
 				9DDB3A032C0DB7540047F486 /* IntroductionToNimGame.hpp */,
 				9DDB3A062C0DB9860047F486 /* MisèreNim.hpp */,
+				9DF8C1622C0F08F000082C16 /* NimbleGame.hpp */,
 			);
 			path = GameTheory;
 			sourceTree = "<group>";
