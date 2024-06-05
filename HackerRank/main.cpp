@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    XORStrings::test();
+    SmartNumber::test();
     return 0;
 }

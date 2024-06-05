@@ -142,6 +142,7 @@
 		9DF8C1622C0F08F000082C16 /* NimbleGame.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = NimbleGame.hpp; sourceTree = "<group>"; };
 		9DF8C1652C0F0CF900082C16 /* PokerNim.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PokerNim.hpp; sourceTree = "<group>"; };
 		9DF8C16C2C1071A000082C16 /* XORStrings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = XORStrings.hpp; sourceTree = "<group>"; };
+		9DF8C16F2C10739D00082C16 /* SmartNumber.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SmartNumber.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -386,6 +387,7 @@
 			isa = PBXGroup;
 			children = (
 				9DF8C16C2C1071A000082C16 /* XORStrings.hpp */,
+				9DF8C16F2C10739D00082C16 /* SmartNumber.hpp */,
 			);
 			path = Debugging;
 			sourceTree = "<group>";

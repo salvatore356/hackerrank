@@ -15,27 +15,46 @@ Happy coding!
 
 ### Problems
 
-## Warmup
+## Bit Manipulation
+
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
-| Between Two Sets | [C++](./HackerRank/Algorithms/Warmup/BetweenTwoSets.hpp) | Easy | - |
-| Bill Division | [C++](./HackerRank/Algorithms/Warmup/BillDivision.hpp) | Easy | - |
-| Birthday Cake Candles | [C++](./HackerRank/Algorithms/Warmup/BirthdayCakeCandles.hpp) | Easy | - |
-| Breaking The Records | [C++](./HackerRank/Algorithms/Warmup/BreakingTheRecords.hpp) | Easy | - |
-| Cats And A Mouse | [C++](./HackerRank/Algorithms/Warmup/CatsAndAMouse.hpp) | Easy | - |
-| Count Apples And Oranges | [C++](./HackerRank/Algorithms/Warmup/CountApplesAndOranges.hpp) | Easy | - |
-| Day Of The Programmer | [C++](./HackerRank/Algorithms/Warmup/DayOfTheProgrammer.hpp) | Easy | - |
-| Divisible Sum Pairs | [C++](./HackerRank/Algorithms/Warmup/DivisibleSumPairs.hpp) | Easy | - |
-| Drawing Book | [C++](./HackerRank/Algorithms/Warmup/DrawingBook.hpp) | Easy | - |
-| Electronics Shop | [C++](./HackerRank/Algorithms/Warmup/ElectronicsShop.hpp) | Easy | - |
-| Grading Students | [C++](./HackerRank/Algorithms/Warmup/GradingStudents.hpp) | Easy | - |
-| Migratory Birds | [C++](./HackerRank/Algorithms/Warmup/MigratoryBirds.hpp) | Easy | - |
-| Mini Max Sum | [C++](./HackerRank/Algorithms/Warmup/MiniMaxSum.hpp) | Easy | - |
-| Number Line Jumps | [C++](./HackerRank/Algorithms/Warmup/NumberLineJumps.hpp) | Easy | - |
-| Picking Numbers | [C++](./HackerRank/Algorithms/Warmup/PickingNumbers.hpp) | Easy | - |
-| Staircase | [C++](./HackerRank/Algorithms/Warmup/Staircase.hpp) | Easy | - |
-| Subarray Division | [C++](./HackerRank/Algorithms/Warmup/SubarrayDivision.hpp) | Easy | - |
-| Time Conversion | [C++](./HackerRank/Algorithms/Warmup/TimeConversion.hpp) | Easy | - |
+| Lonely Integer | [C++](./HackerRank/Algorithms/BitManipulation/LonelyInteger.hpp) | Easy | - |
+| Maximizing XOR | [C++](./HackerRank/Algorithms/BitManipulation/MaximizingXOR.hpp) | Easy | - |
+| Sum vs XOR | [C++](./HackerRank/Algorithms/BitManipulation/SumVsXOR.hpp) | Easy | - |
+
+## Debugging
+
+| Title | Solution | Difficulty | Elaboration |
+| ----- | -------- | ---------- | ----------- |
+| XOR Strings | [C++](./HackerRank/Algorithms/Debugging/XORStrings.hpp) | Easy | - |
+| Smart Number | [C++](./HackerRank/Algorithms/Debugging/SmartNumber.hpp) | Easy | - |
+
+## Game Theory
+
+| Title | Solution | Difficulty | Elaboration |
+| ----- | -------- | ---------- | ----------- |
+| Game Of Stones | [C++](./HackerRank/Algorithms/GameTheory/GameOfStones.hpp) | Easy | - |
+| Tower Breakers | [C++](./HackerRank/Algorithms/GameTheory/TowerBreakers.hpp) | Easy | - |
+| A Chessboard Game | [C++](./HackerRank/Algorithms/GameTheory/AChessboardGame.hpp) | Easy | - |
+| Introduction to Nim Game | [C++](./HackerRank/Algorithms/GameTheory/IntroductionToNimGame.hpp) | Easy | - |
+| Misère Nim | [C++](./HackerRank/Algorithms/GameTheory/MisèreNim.hpp) | Easy | - |
+| Nimble Game | [C++](./HackerRank/Algorithms/GameTheory/NimbleGame.hpp) | Easy | - |
+| Poker Nim | [C++](./HackerRank/Algorithms/GameTheory/PokerNim.hpp) | Easy | - |
+
+## Greedy
+
+| Title | Solution | Difficulty | Elaboration |
+| ----- | -------- | ---------- | ----------- |
+| Marc's Cakewalk | [C++](./HackerRank/Algorithms/Greedy/MarcsCakewalk.hpp) | Easy | - |
+| Grid Challenge | [C++](./HackerRank/Algorithms/Greedy/GridChallenge.hpp) | Easy | - |
+| Maximum Perimeter Triangle | [C++](./HackerRank/Algorithms/Greedy/MaximumPerimeterTriangle.hpp) | Easy | - |
+| Beautiful Pairs | [C++](./HackerRank/Algorithms/Greedy/BeautifulPairs.hpp) | Easy | - |
+| Sherlock and The Beast | [C++](./HackerRank/Algorithms/Greedy/SherlockAndTheBeast.hpp) | Easy | - |
+| Priyanka and Toys | [C++](./HackerRank/Algorithms/Greedy/PriyankaAndToys.hpp) | Easy | - |
+| LargestPermutation | [C++](./HackerRank/Algorithms/Greedy/LargestPermutation.hpp) | Easy | - |
+| Jim And The Orders | [C++](./HackerRank/Algorithms/Greedy/JimAndTheOrders.hpp) | Easy | - |
+| Permuting Two Arrays | [C++](./HackerRank/Algorithms/Greedy/PermutingTwoArrays.hpp) | Easy | - |
 
 ## Implementation
 
@@ -79,6 +98,14 @@ Happy coding!
 | Utopian Tree | [C++](./HackerRank/Algorithms/Implementation/UtopianTree.hpp) | Easy | - |
 | Viral Advertising | [C++](./HackerRank/Algorithms/Implementation/ViralAdvertising.hpp) | Easy | - |
 
+## Search
+
+| Title | Solution | Difficulty | Elaboration |
+| ----- | -------- | ---------- | ----------- |
+| Ice Cream Parlor | [C++](./HackerRank/Algorithms/Search/IceCreamParlor.hpp) | Easy | - |
+| Missing Numbers | [C++](./HackerRank/Algorithms/Search/MissingNumbers.hpp) | Easy | - |
+| Sherlock and Array | [C++](./HackerRank/Algorithms/Search/SherlockAndArray.hpp) | Easy | - |
+
 ## Sorting
 
 | Title | Solution | Difficulty | Elaboration |
@@ -111,13 +138,28 @@ Happy coding!
 | Game of Thrones - I | [C++](./HackerRank/Algorithms/Strings/GameOfThronesI.hpp) | Easy | - |
 | String Construction | [C++](./HackerRank/Algorithms/Strings/StringConstruction.hpp) | Easy | - |
 
-## Search
+## Warmup
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
-| Ice Cream Parlor | [C++](./HackerRank/Algorithms/Search/IceCreamParlor.hpp) | Easy | - |
-| Missing Numbers | [C++](./HackerRank/Algorithms/Search/MissingNumbers.hpp) | Easy | - |
-| Sherlock and Array | [C++](./HackerRank/Algorithms/Search/SherlockAndArray.hpp) | Easy | - |
+| Between Two Sets | [C++](./HackerRank/Algorithms/Warmup/BetweenTwoSets.hpp) | Easy | - |
+| Bill Division | [C++](./HackerRank/Algorithms/Warmup/BillDivision.hpp) | Easy | - |
+| Birthday Cake Candles | [C++](./HackerRank/Algorithms/Warmup/BirthdayCakeCandles.hpp) | Easy | - |
+| Breaking The Records | [C++](./HackerRank/Algorithms/Warmup/BreakingTheRecords.hpp) | Easy | - |
+| Cats And A Mouse | [C++](./HackerRank/Algorithms/Warmup/CatsAndAMouse.hpp) | Easy | - |
+| Count Apples And Oranges | [C++](./HackerRank/Algorithms/Warmup/CountApplesAndOranges.hpp) | Easy | - |
+| Day Of The Programmer | [C++](./HackerRank/Algorithms/Warmup/DayOfTheProgrammer.hpp) | Easy | - |
+| Divisible Sum Pairs | [C++](./HackerRank/Algorithms/Warmup/DivisibleSumPairs.hpp) | Easy | - |
+| Drawing Book | [C++](./HackerRank/Algorithms/Warmup/DrawingBook.hpp) | Easy | - |
+| Electronics Shop | [C++](./HackerRank/Algorithms/Warmup/ElectronicsShop.hpp) | Easy | - |
+| Grading Students | [C++](./HackerRank/Algorithms/Warmup/GradingStudents.hpp) | Easy | - |
+| Migratory Birds | [C++](./HackerRank/Algorithms/Warmup/MigratoryBirds.hpp) | Easy | - |
+| Mini Max Sum | [C++](./HackerRank/Algorithms/Warmup/MiniMaxSum.hpp) | Easy | - |
+| Number Line Jumps | [C++](./HackerRank/Algorithms/Warmup/NumberLineJumps.hpp) | Easy | - |
+| Picking Numbers | [C++](./HackerRank/Algorithms/Warmup/PickingNumbers.hpp) | Easy | - |
+| Staircase | [C++](./HackerRank/Algorithms/Warmup/Staircase.hpp) | Easy | - |
+| Subarray Division | [C++](./HackerRank/Algorithms/Warmup/SubarrayDivision.hpp) | Easy | - |
+| Time Conversion | [C++](./HackerRank/Algorithms/Warmup/TimeConversion.hpp) | Easy | - |
 
 ## Project Euler
 
@@ -134,43 +176,3 @@ Happy coding!
 | Project Euler #9: Special Pythagorean Triplet | [C++](./HackerRank/ProjectEuler+/SpecialPythagoreanTriplet.hpp) | Medium | - |
 | Project Euler #10: Summation of primes | [C++](./HackerRank/ProjectEuler+/SummationOfPrimes.hpp) | Medium | - |
 | Project Euler #11: Largest product in a grid | [C++](./HackerRank/ProjectEuler+/LargestProductInAGrid.hpp) | Easy | - |
-
-## Greedy
-
-| Title | Solution | Difficulty | Elaboration |
-| ----- | -------- | ---------- | ----------- |
-| Marc's Cakewalk | [C++](./HackerRank/Algorithms/Greedy/MarcsCakewalk.hpp) | Easy | - |
-| Grid Challenge | [C++](./HackerRank/Algorithms/Greedy/GridChallenge.hpp) | Easy | - |
-| Maximum Perimeter Triangle | [C++](./HackerRank/Algorithms/Greedy/MaximumPerimeterTriangle.hpp) | Easy | - |
-| Beautiful Pairs | [C++](./HackerRank/Algorithms/Greedy/BeautifulPairs.hpp) | Easy | - |
-| Sherlock and The Beast | [C++](./HackerRank/Algorithms/Greedy/SherlockAndTheBeast.hpp) | Easy | - |
-| Priyanka and Toys | [C++](./HackerRank/Algorithms/Greedy/PriyankaAndToys.hpp) | Easy | - |
-| LargestPermutation | [C++](./HackerRank/Algorithms/Greedy/LargestPermutation.hpp) | Easy | - |
-| Jim And The Orders | [C++](./HackerRank/Algorithms/Greedy/JimAndTheOrders.hpp) | Easy | - |
-| Permuting Two Arrays | [C++](./HackerRank/Algorithms/Greedy/PermutingTwoArrays.hpp) | Easy | - |
-
-## Bit Manipulation
-
-| Title | Solution | Difficulty | Elaboration |
-| ----- | -------- | ---------- | ----------- |
-| Lonely Integer | [C++](./HackerRank/Algorithms/BitManipulation/LonelyInteger.hpp) | Easy | - |
-| Maximizing XOR | [C++](./HackerRank/Algorithms/BitManipulation/MaximizingXOR.hpp) | Easy | - |
-| Sum vs XOR | [C++](./HackerRank/Algorithms/BitManipulation/SumVsXOR.hpp) | Easy | - |
-
-## Game Theory
-
-| Title | Solution | Difficulty | Elaboration |
-| ----- | -------- | ---------- | ----------- |
-| Game Of Stones | [C++](./HackerRank/Algorithms/GameTheory/GameOfStones.hpp) | Easy | - |
-| Tower Breakers | [C++](./HackerRank/Algorithms/GameTheory/TowerBreakers.hpp) | Easy | - |
-| A Chessboard Game | [C++](./HackerRank/Algorithms/GameTheory/AChessboardGame.hpp) | Easy | - |
-| Introduction to Nim Game | [C++](./HackerRank/Algorithms/GameTheory/IntroductionToNimGame.hpp) | Easy | - |
-| Misère Nim | [C++](./HackerRank/Algorithms/GameTheory/MisèreNim.hpp) | Easy | - |
-| Nimble Game | [C++](./HackerRank/Algorithms/GameTheory/NimbleGame.hpp) | Easy | - |
-| Poker Nim | [C++](./HackerRank/Algorithms/GameTheory/PokerNim.hpp) | Easy | - |
-
-## Debugging
-
-| Title | Solution | Difficulty | Elaboration |
-| ----- | -------- | ---------- | ----------- |
-| XOR Strings | [C++](./HackerRank/Algorithms/Debugging/XORStrings.hpp) | Easy | - |
