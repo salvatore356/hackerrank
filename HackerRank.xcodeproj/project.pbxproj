@@ -141,6 +141,7 @@
 		9DE9190E2C00BF7B00A743A4 /* SherlockAndTheBeast.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SherlockAndTheBeast.hpp; sourceTree = "<group>"; };
 		9DF8C1622C0F08F000082C16 /* NimbleGame.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = NimbleGame.hpp; sourceTree = "<group>"; };
 		9DF8C1652C0F0CF900082C16 /* PokerNim.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PokerNim.hpp; sourceTree = "<group>"; };
+		9DF8C16C2C1071A000082C16 /* XORStrings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = XORStrings.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -326,6 +327,7 @@
 		9DAC36732BB5AC970070D4DE /* Algorithms */ = {
 			isa = PBXGroup;
 			children = (
+				9DF8C16A2C10718C00082C16 /* Debugging */,
 				9DA31E562C0939DB001F92A0 /* GameTheory */,
 				9D033DCE2C072A1100005908 /* BitManipulation */,
 				9DE918D62BFDEF0600A743A4 /* Greedy */,
@@ -378,6 +380,14 @@
 				9D033DC12C05E8DE00005908 /* PermutingTwoArrays.hpp */,
 			);
 			path = Greedy;
+			sourceTree = "<group>";
+		};
+		9DF8C16A2C10718C00082C16 /* Debugging */ = {
+			isa = PBXGroup;
+			children = (
+				9DF8C16C2C1071A000082C16 /* XORStrings.hpp */,
+			);
+			path = Debugging;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

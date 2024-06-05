@@ -91,4 +91,6 @@
 #include "GameTheory/NimbleGame.hpp"
 #include "GameTheory/PokerNim.hpp"
 
+#include "Debugging/XORStrings.hpp"
+
 #endif /* Algorithms_hpp */

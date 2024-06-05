@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    PokerNim::test();
+    XORStrings::test();
     return 0;
 }

@@ -168,3 +168,9 @@ Happy coding!
 | Misère Nim | [C++](./HackerRank/Algorithms/GameTheory/MisèreNim.hpp) | Easy | - |
 | Nimble Game | [C++](./HackerRank/Algorithms/GameTheory/NimbleGame.hpp) | Easy | - |
 | Poker Nim | [C++](./HackerRank/Algorithms/GameTheory/PokerNim.hpp) | Easy | - |
+
+## Debugging
+
+| Title | Solution | Difficulty | Elaboration |
+| ----- | -------- | ---------- | ----------- |
+| XOR Strings | [C++](./HackerRank/Algorithms/Debugging/XORStrings.hpp) | Easy | - |
