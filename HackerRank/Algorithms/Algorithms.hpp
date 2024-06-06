@@ -49,6 +49,7 @@
 #include "Implementation/EqualizeTheArray.hpp"
 #include "Implementation/FairRations.hpp"
 #include "Implementation/FlatlandSpaceStations.hpp"
+#include "Implementation/FormingAMagicSquare.hpp"
 #include "Implementation/HalloweenSale.hpp"
 #include "Implementation/HappyLadybugs.hpp"
 #include "Implementation/LibraryFine.hpp"

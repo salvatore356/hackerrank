@@ -108,6 +108,7 @@
 		9D975AC72BB9031C00B38A1E /* FindDigits.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FindDigits.hpp; sourceTree = "<group>"; };
 		9D975ACD2BBC096200B38A1E /* SherlockAndSquares.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SherlockAndSquares.hpp; sourceTree = "<group>"; };
 		9D975B0F2BBD339500B38A1E /* LibraryFine.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LibraryFine.hpp; sourceTree = "<group>"; };
+		9DA293C42C1273DA009CA968 /* FormingAMagicSquare.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FormingAMagicSquare.hpp; sourceTree = "<group>"; };
 		9DA31E542C09372A001F92A0 /* SumVsXOR.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SumVsXOR.hpp; sourceTree = "<group>"; };
 		9DA31E582C093A00001F92A0 /* GameOfStones.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GameOfStones.hpp; sourceTree = "<group>"; };
 		9DA31E5F2C09EDA6001F92A0 /* TowerBreakers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TowerBreakers.hpp; sourceTree = "<group>"; };
@@ -261,6 +262,7 @@
 				9D965FD32BE3DAC100C2BB46 /* StrongPassword.hpp */,
 				9D965FDF2BE5209F00C2BB46 /* TwoCharacters.hpp */,
 				9D965FE22BE5274700C2BB46 /* InsertionSortPart2.hpp */,
+				9DA293C42C1273DA009CA968 /* FormingAMagicSquare.hpp */,
 			);
 			path = Implementation;
 			sourceTree = "<group>";

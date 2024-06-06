@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    SmartNumber::test();
+    FormingAMagicSquare::test();
     return 0;
 }

@@ -9,6 +9,7 @@
 #define BeautifulPairs_hpp
 
 #include <stdio.h>
+#include <unordered_map>
 
 namespace BeautifulPairs {
 

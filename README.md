@@ -97,6 +97,7 @@ Happy coding!
 | The Hurdle Race | [C++](./HackerRank/Algorithms/Implementation/TheHurdleRace.hpp) | Easy | - |
 | Utopian Tree | [C++](./HackerRank/Algorithms/Implementation/UtopianTree.hpp) | Easy | - |
 | Viral Advertising | [C++](./HackerRank/Algorithms/Implementation/ViralAdvertising.hpp) | Easy | - |
+| Forming a Magic Square | [C++](./HackerRank/Algorithms/Implementation/FormingAMagicSquare.hpp) | Medium | - |
 
 ## Search
 
