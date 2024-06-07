@@ -111,6 +111,7 @@
 		9DA293C42C1273DA009CA968 /* FormingAMagicSquare.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FormingAMagicSquare.hpp; sourceTree = "<group>"; };
 		9DA293C72C1284F8009CA968 /* ClimbingTheLeaderboard.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ClimbingTheLeaderboard.hpp; sourceTree = "<group>"; };
 		9DA293D12C13115B009CA968 /* ExtraLongFactorials.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ExtraLongFactorials.hpp; sourceTree = "<group>"; };
+		9DA293D42C1324FC009CA968 /* NonDivisibleSubset.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = NonDivisibleSubset.hpp; sourceTree = "<group>"; };
 		9DA31E542C09372A001F92A0 /* SumVsXOR.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SumVsXOR.hpp; sourceTree = "<group>"; };
 		9DA31E582C093A00001F92A0 /* GameOfStones.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GameOfStones.hpp; sourceTree = "<group>"; };
 		9DA31E5F2C09EDA6001F92A0 /* TowerBreakers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TowerBreakers.hpp; sourceTree = "<group>"; };
@@ -283,6 +284,7 @@
 				9DA293C72C1284F8009CA968 /* ClimbingTheLeaderboard.hpp */,
 				9DA293C42C1273DA009CA968 /* FormingAMagicSquare.hpp */,
 				9DA293D12C13115B009CA968 /* ExtraLongFactorials.hpp */,
+				9DA293D42C1324FC009CA968 /* NonDivisibleSubset.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

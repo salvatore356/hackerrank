@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    ExtraLongFactorials::test();
+    NonDivisibleSubset::test();
     return 0;
 }

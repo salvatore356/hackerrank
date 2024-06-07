@@ -41,6 +41,7 @@
 #include "Implementation/Medium/ClimbingTheLeaderboard.hpp"
 #include "Implementation/Medium/ExtraLongFactorials.hpp"
 #include "Implementation/Medium/FormingAMagicSquare.hpp"
+#include "Implementation/Medium/NonDivisibleSubset.hpp"
 
 #include "Implementation/ACMICPCTeam.hpp"
 #include "Implementation/AppendAndDelete.hpp"
