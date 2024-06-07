@@ -38,6 +38,10 @@
 #include "Greedy/PriyankaAndToys.hpp"
 #include "Greedy/SherlockAndTheBeast.hpp"
 
+#include "Implementation/Medium/ClimbingTheLeaderboard.hpp"
+#include "Implementation/Medium/ExtraLongFactorials.hpp"
+#include "Implementation/Medium/FormingAMagicSquare.hpp"
+
 #include "Implementation/ACMICPCTeam.hpp"
 #include "Implementation/AppendAndDelete.hpp"
 #include "Implementation/BeautifulTriplets.hpp"
@@ -46,11 +50,9 @@
 #include "Implementation/CavityMap.hpp"
 #include "Implementation/ChocolateFeast.hpp"
 #include "Implementation/CircularArrayRotation.hpp"
-#include "Implementation/ClimbingTheLeaderboard.hpp"
 #include "Implementation/EqualizeTheArray.hpp"
 #include "Implementation/FairRations.hpp"
 #include "Implementation/FlatlandSpaceStations.hpp"
-#include "Implementation/FormingAMagicSquare.hpp"
 #include "Implementation/HalloweenSale.hpp"
 #include "Implementation/HappyLadybugs.hpp"
 #include "Implementation/LibraryFine.hpp"

@@ -97,8 +97,9 @@ Happy coding!
 | The Hurdle Race | [C++](./HackerRank/Algorithms/Implementation/TheHurdleRace.hpp) | Easy | - |
 | Utopian Tree | [C++](./HackerRank/Algorithms/Implementation/UtopianTree.hpp) | Easy | - |
 | Viral Advertising | [C++](./HackerRank/Algorithms/Implementation/ViralAdvertising.hpp) | Easy | - |
-| Forming a Magic Square | [C++](./HackerRank/Algorithms/Implementation/FormingAMagicSquare.hpp) | Medium | - |
-| Climbing the Leaderboard | [C++](./HackerRank/Algorithms/Implementation/ClimbingTheLeaderboard.hpp) | Medium | - |
+| Forming a Magic Square | [C++](./HackerRank/Algorithms/Implementation/Medium/FormingAMagicSquare.hpp) | Medium | - |
+| Climbing the Leaderboard | [C++](./HackerRank/Algorithms/Implementation/Medium/ClimbingTheLeaderboard.hpp) | Medium | - |
+| Extra Long Factorials | [C++](./HackerRank/Algorithms/Implementation/Medium/ExtraLongFactorials.hpp) | Medium | - |
 
 ## Search
 

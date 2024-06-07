@@ -56,9 +56,9 @@ namespace FormingAMagicSquare {
 
     void test() {
         string test_case = "00";
-        string path = "Tests/Algorithms/Implementation/" + remove_extension(__FILE_NAME__) + "/";
-        std::ifstream input(path  +  "input" + test_case + ".txt");
-        std::ifstream output(path + "output" + test_case + ".txt");
+        string path = format_file_path_test(__FILE__);
+        
+        TestIO io = TestIO(path, test_case);
         
         string t_out;
 
@@ -68,7 +68,7 @@ namespace FormingAMagicSquare {
             s[i].resize(3);
 
             string s_row_temp_temp;
-            getline(input, s_row_temp_temp);
+            getline(io.input, s_row_temp_temp);
 
             vector<string> s_row_temp = split(rtrim(s_row_temp_temp));
 
@@ -80,7 +80,7 @@ namespace FormingAMagicSquare {
         }
 
         int result = formingMagicSquare(s);
-        getline(output, t_out);
+        getline(io.output, t_out);
         assert(result == stoi(t_out), to_string(result) + " == " + t_out);
     }
 }

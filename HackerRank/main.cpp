@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    ClimbingTheLeaderboard::test();
+    ExtraLongFactorials::test();
     return 0;
 }

@@ -42,19 +42,19 @@ namespace ClimbingTheLeaderboard {
 
     void test() {
         string test_case = "00";
-        string path = "Tests/Algorithms/Implementation/" + remove_extension(__FILE_NAME__) + "/";
-        std::ifstream input(path  +  "input" + test_case + ".txt");
-        std::ifstream output(path + "output" + test_case + ".txt");
+        string path = format_file_path_test(__FILE__);
+        
+        TestIO io = TestIO(path, test_case);
         
         string t_out;
 
         string ranked_count_temp;
-        getline(input, ranked_count_temp);
+        getline(io.input, ranked_count_temp);
 
         int ranked_count = stoi(ltrim(rtrim(ranked_count_temp)));
 
         string ranked_temp_temp;
-        getline(input, ranked_temp_temp);
+        getline(io.input, ranked_temp_temp);
 
         vector<string> ranked_temp = split(rtrim(ranked_temp_temp));
 
@@ -67,12 +67,12 @@ namespace ClimbingTheLeaderboard {
         }
 
         string player_count_temp;
-        getline(input, player_count_temp);
+        getline(io.input, player_count_temp);
 
         int player_count = stoi(ltrim(rtrim(player_count_temp)));
 
         string player_temp_temp;
-        getline(input, player_temp_temp);
+        getline(io.input, player_temp_temp);
 
         vector<string> player_temp = split(rtrim(player_temp_temp));
 
@@ -87,7 +87,7 @@ namespace ClimbingTheLeaderboard {
         vector<int> result = climbingLeaderboard(ranked, player);
 
         for (size_t i = 0; i < result.size(); i++) {
-            getline(output, t_out);
+            getline(io.output, t_out);
             assert(result[i] == stoi(t_out), to_string(result[i]) + " == " + t_out);
         }
 

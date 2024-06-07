@@ -117,4 +117,42 @@ string remove_extension(string s) {
     
 }
 
+std::string format_file_path_test(string file) {
+    const std::string separator = "/HackerRank/";
+
+    auto index = file.find(separator);
+    if (index == std::string::npos) {
+        throw std::runtime_error("Separator not found in file path");
+    }
+
+    // Extract the substring after the separator
+    std::string relative_path = file.substr(index + separator.size());
+
+    // Remove the file extension
+    auto lastindex = relative_path.find_last_of(".");
+    if (lastindex != std::string::npos) {
+        relative_path = relative_path.substr(0, lastindex);
+    }
+
+    // Return the formatted path
+    return "Tests/" + relative_path + "/";
+}
+
+struct TestIO {
+    std::ifstream input;//(path  +  "input" + test_case + ".txt");
+    std::ifstream output;//(path + "output" + test_case + ".txt");
+    
+    TestIO(string path, string test) {
+        input = std::ifstream(path  +  "input" + test + ".txt");
+        output = std::ifstream(path + "output" + test + ".txt");
+    }
+    
+    ~TestIO() {
+        if(input.is_open())
+            input.close();
+        if(output.is_open())
+            output.close();
+    }
+};
+
 #endif /* Utils_hpp */
