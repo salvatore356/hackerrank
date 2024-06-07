@@ -98,6 +98,7 @@ Happy coding!
 | Utopian Tree | [C++](./HackerRank/Algorithms/Implementation/UtopianTree.hpp) | Easy | - |
 | Viral Advertising | [C++](./HackerRank/Algorithms/Implementation/ViralAdvertising.hpp) | Easy | - |
 | Forming a Magic Square | [C++](./HackerRank/Algorithms/Implementation/FormingAMagicSquare.hpp) | Medium | - |
+| Climbing the Leaderboard | [C++](./HackerRank/Algorithms/Implementation/ClimbingTheLeaderboard.hpp) | Medium | - |
 
 ## Search
 

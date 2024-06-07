@@ -46,6 +46,7 @@
 #include "Implementation/CavityMap.hpp"
 #include "Implementation/ChocolateFeast.hpp"
 #include "Implementation/CircularArrayRotation.hpp"
+#include "Implementation/ClimbingTheLeaderboard.hpp"
 #include "Implementation/EqualizeTheArray.hpp"
 #include "Implementation/FairRations.hpp"
 #include "Implementation/FlatlandSpaceStations.hpp"
