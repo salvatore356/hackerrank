@@ -42,6 +42,7 @@
 #include "Implementation/Medium/ExtraLongFactorials.hpp"
 #include "Implementation/Medium/FormingAMagicSquare.hpp"
 #include "Implementation/Medium/NonDivisibleSubset.hpp"
+#include "Implementation/Medium/QueensAttackII.hpp"
 
 #include "Implementation/ACMICPCTeam.hpp"
 #include "Implementation/AppendAndDelete.hpp"

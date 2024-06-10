@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    NonDivisibleSubset::test();
+    QueensAttackII::test();
     return 0;
 }

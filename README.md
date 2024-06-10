@@ -101,6 +101,8 @@ Happy coding!
 | Climbing the Leaderboard | [C++](./HackerRank/Algorithms/Implementation/Medium/ClimbingTheLeaderboard.hpp) | Medium | - |
 | Extra Long Factorials | [C++](./HackerRank/Algorithms/Implementation/Medium/ExtraLongFactorials.hpp) | Medium | - |
 | Non-Divisible Subset | [C++](./HackerRank/Algorithms/Implementation/Medium/NonDivisibleSubset.hpp) | Medium | - |
+| Queen's Attack II | [C++](./HackerRank/Algorithms/Implementation/Medium/QueensAttackII.hpp) | Medium | - |
+
 
 ## Search
 
