@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    QueensAttackII::test();
+    OrganizingContainersOfBalls::test();
     return 0;
 }

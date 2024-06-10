@@ -102,6 +102,7 @@ Happy coding!
 | Extra Long Factorials | [C++](./HackerRank/Algorithms/Implementation/Medium/ExtraLongFactorials.hpp) | Medium | - |
 | Non-Divisible Subset | [C++](./HackerRank/Algorithms/Implementation/Medium/NonDivisibleSubset.hpp) | Medium | - |
 | Queen's Attack II | [C++](./HackerRank/Algorithms/Implementation/Medium/QueensAttackII.hpp) | Medium | - |
+| Organizing Containers of Balls | [C++](./HackerRank/Algorithms/Implementation/Medium/OrganizingContainersOfBalls.hpp) | Medium | - |
 
 
 ## Search
