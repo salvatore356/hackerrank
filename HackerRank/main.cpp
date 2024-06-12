@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    OrganizingContainersOfBalls::test();
+    Encryption::test();
     return 0;
 }

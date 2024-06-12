@@ -39,6 +39,7 @@
 #include "Greedy/SherlockAndTheBeast.hpp"
 
 #include "Implementation/Medium/ClimbingTheLeaderboard.hpp"
+#include "Implementation/Medium/Encryption.hpp"
 #include "Implementation/Medium/ExtraLongFactorials.hpp"
 #include "Implementation/Medium/FormingAMagicSquare.hpp"
 #include "Implementation/Medium/NonDivisibleSubset.hpp"
