@@ -28,7 +28,7 @@ namespace _10001stPrime {
         
         if( n <= primes.size()) return primes[n - 1];
         
-        int current = primes.back() + 1;
+        int current = (int)primes.back() + 1;
         while( primes.size() < n ) {
             addPrime (current, primes);
             ++current;

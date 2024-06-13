@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    Encryption::test();
+    BiggerIsGreater::test();
     return 0;
 }

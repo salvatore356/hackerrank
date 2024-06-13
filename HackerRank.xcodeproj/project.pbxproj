@@ -86,6 +86,7 @@
 		9D9747E22C17AF3A0079BD22 /* QueensAttackII.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = QueensAttackII.hpp; sourceTree = "<group>"; };
 		9D9747E52C17C8B00079BD22 /* OrganizingContainersOfBalls.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = OrganizingContainersOfBalls.hpp; sourceTree = "<group>"; };
 		9D9747E82C1A42930079BD22 /* Encryption.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Encryption.hpp; sourceTree = "<group>"; };
+		9D9747EE2C1AF9F50079BD22 /* BiggerIsGreater.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BiggerIsGreater.hpp; sourceTree = "<group>"; };
 		9D975A7C2BB813DF00B38A1E /* SubarrayDivision.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SubarrayDivision.hpp; sourceTree = "<group>"; };
 		9D975A7F2BB8161F00B38A1E /* DivisibleSumPairs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DivisibleSumPairs.hpp; sourceTree = "<group>"; };
 		9D975A822BB817F100B38A1E /* MigratoryBirds.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MigratoryBirds.hpp; sourceTree = "<group>"; };
@@ -291,6 +292,7 @@
 				9D9747E22C17AF3A0079BD22 /* QueensAttackII.hpp */,
 				9D9747E52C17C8B00079BD22 /* OrganizingContainersOfBalls.hpp */,
 				9D9747E82C1A42930079BD22 /* Encryption.hpp */,
+				9D9747EE2C1AF9F50079BD22 /* BiggerIsGreater.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

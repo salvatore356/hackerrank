@@ -33,13 +33,12 @@ namespace  LargestPalindromeProduct {
     }
 
     long largestPalindromeProduct (int n) {
-        int ans;
         
         for (int i = n - 1; i >= 1; --i) {
             if (isPalindrome(i) && !isValid(i)) return i;
         }
         
-        return ans;
+        return -1;
     }
 
     void test()

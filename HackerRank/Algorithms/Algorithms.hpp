@@ -38,6 +38,7 @@
 #include "Greedy/PriyankaAndToys.hpp"
 #include "Greedy/SherlockAndTheBeast.hpp"
 
+#include "Implementation/Medium/BiggerIsGreater.hpp"
 #include "Implementation/Medium/ClimbingTheLeaderboard.hpp"
 #include "Implementation/Medium/Encryption.hpp"
 #include "Implementation/Medium/ExtraLongFactorials.hpp"

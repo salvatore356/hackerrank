@@ -45,7 +45,7 @@ namespace LargestProductInASeries {
 
             vector<string> first_multiple_input = split(rtrim(first_multiple_input_temp));
 
-            int n = stoi(first_multiple_input[0]);
+            //int n = stoi(first_multiple_input[0]);
 
             int k = stoi(first_multiple_input[1]);
 

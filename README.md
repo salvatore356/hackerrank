@@ -104,6 +104,7 @@ Happy coding!
 | Queen's Attack II | [C++](./HackerRank/Algorithms/Implementation/Medium/QueensAttackII.hpp) | Medium | - |
 | Organizing Containers of Balls | [C++](./HackerRank/Algorithms/Implementation/Medium/OrganizingContainersOfBalls.hpp) | Medium | - |
 | Encryption | [C++](./HackerRank/Algorithms/Implementation/Medium/Encryption.hpp) | Medium | - |
+| Bigger is Greater | [C++](./HackerRank/Algorithms/Implementation/Medium/BiggerIsGreater.hpp) | Medium | - |
 
 ## Search
 
