@@ -16,7 +16,6 @@ namespace OrganizingContainersOfBalls {
         vector<int> count(container.size());
         vector<int> type(container.size());
         
-        int index = 0;
         for (int i = 0; i < container.size(); ++i) {
             for (int j = 0; j < container[i].size(); ++j) {
                 count[i] += container[i][j];

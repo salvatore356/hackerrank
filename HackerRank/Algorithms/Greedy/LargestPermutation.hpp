@@ -19,7 +19,7 @@ namespace LargestPermutation {
             pos[arr[i]] = i;
         
         for (int i = 0; i < arr.size() && k > 0; ++i) {
-            int target = arr.size() - i;
+            int target = (int)arr.size() - i;
             
             if(arr[i] == target) continue;
             

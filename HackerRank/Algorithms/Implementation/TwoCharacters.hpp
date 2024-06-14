@@ -66,7 +66,7 @@ namespace TwoCharacters {
         string l_temp;
         getline(input, l_temp);
 
-        int l = stoi(ltrim(rtrim(l_temp)));
+        //int l = stoi(ltrim(rtrim(l_temp)));
 
         string s;
         getline(input, s);

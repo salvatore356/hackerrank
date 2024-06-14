@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    BiggerIsGreater::test();
+    TheTimeInWords::test();
     return 0;
 }

@@ -105,6 +105,7 @@ Happy coding!
 | Organizing Containers of Balls | [C++](./HackerRank/Algorithms/Implementation/Medium/OrganizingContainersOfBalls.hpp) | Medium | - |
 | Encryption | [C++](./HackerRank/Algorithms/Implementation/Medium/Encryption.hpp) | Medium | - |
 | Bigger is Greater | [C++](./HackerRank/Algorithms/Implementation/Medium/BiggerIsGreater.hpp) | Medium | - |
+| The Time in Words | [C++](./HackerRank/Algorithms/Implementation/Medium/TheTimeInWords.hpp) | Medium | - |
 
 ## Search
 
