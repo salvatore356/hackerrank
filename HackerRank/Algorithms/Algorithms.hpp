@@ -46,6 +46,7 @@
 #include "Implementation/Medium/NonDivisibleSubset.hpp"
 #include "Implementation/Medium/OrganizingContainersOfBalls.hpp"
 #include "Implementation/Medium/QueensAttackII.hpp"
+#include "Implementation/Medium/TheGridSearch.hpp"
 #include "Implementation/Medium/TheTimeInWords.hpp"
 
 #include "Implementation/ACMICPCTeam.hpp"

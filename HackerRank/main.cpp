@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    TheTimeInWords::test();
+    TheGridSearch::test();
     return 0;
 }
