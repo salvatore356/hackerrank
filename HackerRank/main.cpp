@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    TheGridSearch::test();
+    _3DSurfaceArea::test();
     return 0;
 }

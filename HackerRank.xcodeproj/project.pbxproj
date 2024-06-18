@@ -32,6 +32,7 @@
 		9D033DD02C072A2600005908 /* LonelyInteger.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LonelyInteger.hpp; sourceTree = "<group>"; };
 		9D033DD32C072C3C00005908 /* MaximizingXOR.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MaximizingXOR.hpp; sourceTree = "<group>"; };
 		9D151FEF2C20489C00F7941E /* TheGridSearch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TheGridSearch.hpp; sourceTree = "<group>"; };
+		9D1520D12C2199E700F7941E /* 3DSurfaceArea.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 3DSurfaceArea.hpp; sourceTree = "<group>"; };
 		9D1DBB282BCDA0E500ACA5D7 /* AppendAndDelete.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AppendAndDelete.hpp; sourceTree = "<group>"; };
 		9D1DBB2E2BCFCDF700ACA5D7 /* ACMICPCTeam.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ACMICPCTeam.hpp; sourceTree = "<group>"; };
 		9D1DBB342BD11F4900ACA5D7 /* TaumAndBday.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TaumAndBday.hpp; sourceTree = "<group>"; };
@@ -297,6 +298,7 @@
 				9D9747EE2C1AF9F50079BD22 /* BiggerIsGreater.hpp */,
 				9D5CE30D2C1C440500D8BA78 /* TheTimeInWords.hpp */,
 				9D151FEF2C20489C00F7941E /* TheGridSearch.hpp */,
+				9D1520D12C2199E700F7941E /* 3DSurfaceArea.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
