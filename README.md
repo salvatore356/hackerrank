@@ -108,6 +108,7 @@ Happy coding!
 | The Time in Words | [C++](./HackerRank/Algorithms/Implementation/Medium/TheTimeInWords.hpp) | Medium | - |
 | The Grid Search | [C++](./HackerRank/Algorithms/Implementation/Medium/TheGridSearch.hpp) | Medium | - |
 | 3D Surface Area | [C++](./HackerRank/Algorithms/Implementation/Medium/3DSurfaceArea.hpp) | Medium | - |
+| Absolute Permutation | [C++](./HackerRank/Algorithms/Implementation/Medium/AbsolutePermutation.hpp) | Medium | - |
 
 ## Search
 

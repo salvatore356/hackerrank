@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    _3DSurfaceArea::test();
+    AbsolutePermutation::test();
     return 0;
 }
