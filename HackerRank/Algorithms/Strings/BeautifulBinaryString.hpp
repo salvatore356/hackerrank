@@ -36,7 +36,7 @@ namespace BeautifulBinaryString {
         string n_temp;
         getline(input, n_temp);
 
-        int n = stoi(ltrim(rtrim(n_temp)));
+        //int n = stoi(ltrim(rtrim(n_temp)));
 
         string b;
         getline(input, b);

@@ -109,6 +109,7 @@ Happy coding!
 | The Grid Search | [C++](./HackerRank/Algorithms/Implementation/Medium/TheGridSearch.hpp) | Medium | - |
 | 3D Surface Area | [C++](./HackerRank/Algorithms/Implementation/Medium/3DSurfaceArea.hpp) | Medium | - |
 | Absolute Permutation | [C++](./HackerRank/Algorithms/Implementation/Medium/AbsolutePermutation.hpp) | Medium | - |
+| The Bomberman Game | [C++](./HackerRank/Algorithms/Implementation/Medium/TheBombermanGame.hpp) | Medium | - |
 
 ## Search
 

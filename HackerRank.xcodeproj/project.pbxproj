@@ -47,6 +47,7 @@
 		9D1EEEA62BDAC64300098259 /* ManasaAndStones.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ManasaAndStones.hpp; sourceTree = "<group>"; };
 		9D1EEEA92BDACB6500098259 /* HappyLadybugs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HappyLadybugs.hpp; sourceTree = "<group>"; };
 		9D365D812BC3F5B200B0CD22 /* EqualizeTheArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = EqualizeTheArray.hpp; sourceTree = "<group>"; };
+		9D4302EB2C2ACDEA004E9BAF /* TheBombermanGame.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TheBombermanGame.hpp; sourceTree = "<group>"; };
 		9D5CE30D2C1C440500D8BA78 /* TheTimeInWords.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TheTimeInWords.hpp; sourceTree = "<group>"; };
 		9D626C182BD983700049991E /* LisasWorkbook.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LisasWorkbook.hpp; sourceTree = "<group>"; };
 		9D626C1B2BD9884E0049991E /* FlatlandSpaceStations.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FlatlandSpaceStations.hpp; sourceTree = "<group>"; };
@@ -301,6 +302,7 @@
 				9D151FEF2C20489C00F7941E /* TheGridSearch.hpp */,
 				9D1520D12C2199E700F7941E /* 3DSurfaceArea.hpp */,
 				9D1520DB2C22F75200F7941E /* AbsolutePermutation.hpp */,
+				9D4302EB2C2ACDEA004E9BAF /* TheBombermanGame.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

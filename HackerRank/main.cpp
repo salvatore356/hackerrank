@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    AbsolutePermutation::test();
+    TheBombermanGame::test();
     return 0;
 }

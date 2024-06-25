@@ -36,7 +36,7 @@ namespace CaesarCipher {
         string n_temp;
         getline(input, n_temp);
 
-        int n = stoi(ltrim(rtrim(n_temp)));
+        //int n = stoi(ltrim(rtrim(n_temp)));
 
         string s;
         getline(input, s);
