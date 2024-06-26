@@ -29,6 +29,7 @@ Happy coding!
 | ----- | -------- | ---------- | ----------- |
 | XOR Strings | [C++](./HackerRank/Algorithms/Debugging/XORStrings.hpp) | Easy | - |
 | Smart Number | [C++](./HackerRank/Algorithms/Debugging/SmartNumber.hpp) | Easy | - |
+| Prime Dates | [C++](./HackerRank/Algorithms/Debugging/Medium/PrimeDates.hpp) | Medium | - |
 
 ## Game Theory
 

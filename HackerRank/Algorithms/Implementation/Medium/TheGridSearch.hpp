@@ -15,8 +15,8 @@ namespace TheGridSearch {
     
     bool compare(vector<string> &src, vector<string> &dst, int r, int c) {
         
-        int width = dst.front().size();
-        int height = dst.size();
+        int width = (int)dst.front().size();
+        int height = (int)dst.size();
         
         for (int i = 0;  i < height; ++i) {
             int rr = r + i;
@@ -68,7 +68,7 @@ namespace TheGridSearch {
 
             int R = stoi(first_multiple_input[0]);
 
-            int C = stoi(first_multiple_input[1]);
+            //int C = stoi(first_multiple_input[1]);
 
             vector<string> G(R);
 
@@ -86,7 +86,7 @@ namespace TheGridSearch {
 
             int r = stoi(second_multiple_input[0]);
 
-            int c = stoi(second_multiple_input[1]);
+            //int c = stoi(second_multiple_input[1]);
 
             vector<string> P(r);
 

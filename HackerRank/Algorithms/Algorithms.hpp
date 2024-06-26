@@ -20,6 +20,8 @@
 #include "Debugging/SmartNumber.hpp"
 #include "Debugging/XORStrings.hpp"
 
+#include "Debugging/Medium/PrimeDates.hpp"
+
 #include "GameTheory/AChessboardGame.hpp"
 #include "GameTheory/GameOfStones.hpp"
 #include "GameTheory/IntroductionToNimGame.hpp"

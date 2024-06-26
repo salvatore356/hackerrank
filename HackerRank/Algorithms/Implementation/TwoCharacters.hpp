@@ -33,7 +33,7 @@ namespace TwoCharacters {
     }
 
     void clearString(char a, char b, string &s) {
-        for (int h = s.length() - 1; h >= 0 ; --h)
+        for (int h = (int)s.length() - 1; h >= 0 ; --h)
             if (s[h] != a && s[h] != b)  s.erase(h, 1);
     }
 

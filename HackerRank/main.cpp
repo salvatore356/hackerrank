@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    TheBombermanGame::test();
+    PrimeDates::test();
     return 0;
 }

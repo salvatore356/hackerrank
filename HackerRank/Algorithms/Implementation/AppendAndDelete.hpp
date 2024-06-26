@@ -18,7 +18,7 @@ namespace AppendAndDelete {
         int e = 0;
         for(; e < min(s.size(), t.size()); ++e ) if(s[e] != t[e]) break;
         
-        int deleteInS = s.size() - e, appendInS = t.size() - e;
+        int deleteInS = (int)s.size() - e, appendInS = (int)t.size() - e;
         
         int minChangesNeeded = (deleteInS + appendInS);
         

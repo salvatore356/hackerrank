@@ -23,10 +23,10 @@ namespace ClimbingTheLeaderboard {
                 positions.push_back(ranked[i]);
         }
         
-        int lastPosition = positions.size() - 1;
+        int lastPosition = (int)positions.size() - 1;
         
         for (int i = 0; i < player.size(); ++i) {
-            int currentPlace = 1;
+            //int currentPlace = 1;
             for (int j = lastPosition; j >= 0; --j) {
                 
                 if (positions[j] > player[i]) {

@@ -24,7 +24,7 @@ namespace EqualizeTheArray {
             maxCount = max(maxCount,  counter[index] );
         }
         
-        return arr.size() - maxCount;
+        return (int)arr.size() - maxCount;
     }
 
     void test() {

@@ -45,7 +45,7 @@ namespace ACMICPCTeam {
 
         int n = stoi(first_multiple_input[0]);
 
-        int m = stoi(first_multiple_input[1]);
+        //int m = stoi(first_multiple_input[1]);
 
         vector<string> topic(n);
 
