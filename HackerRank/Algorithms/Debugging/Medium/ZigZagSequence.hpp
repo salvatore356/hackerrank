@@ -12,12 +12,6 @@
 
 namespace ZigZagSequence {
 
-    void print(vector<int> &v) {
-        for (int i = 0; i < v.size(); ++i)
-            printf("%d ", v[i]);
-        printf("\n");
-    }
-
     vector<int> findZigZagSequence(vector < int > a, int n){
         sort(a.begin(), a.end());
         int mid = (n + 1)/2 - 1;
