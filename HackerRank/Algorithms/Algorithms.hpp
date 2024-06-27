@@ -21,6 +21,7 @@
 #include "Debugging/XORStrings.hpp"
 
 #include "Debugging/Medium/PrimeDates.hpp"
+#include "Debugging/Medium/ZigZagSequence.hpp"
 
 #include "GameTheory/AChessboardGame.hpp"
 #include "GameTheory/GameOfStones.hpp"

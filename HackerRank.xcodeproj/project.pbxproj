@@ -49,6 +49,7 @@
 		9D365D812BC3F5B200B0CD22 /* EqualizeTheArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = EqualizeTheArray.hpp; sourceTree = "<group>"; };
 		9D4302EB2C2ACDEA004E9BAF /* TheBombermanGame.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TheBombermanGame.hpp; sourceTree = "<group>"; };
 		9D4302F52C2C34AD004E9BAF /* PrimeDates.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PrimeDates.hpp; sourceTree = "<group>"; };
+		9D4302FB2C2D948A004E9BAF /* ZigZagSequence.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ZigZagSequence.hpp; sourceTree = "<group>"; };
 		9D5CE30D2C1C440500D8BA78 /* TheTimeInWords.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TheTimeInWords.hpp; sourceTree = "<group>"; };
 		9D626C182BD983700049991E /* LisasWorkbook.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LisasWorkbook.hpp; sourceTree = "<group>"; };
 		9D626C1B2BD9884E0049991E /* FlatlandSpaceStations.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FlatlandSpaceStations.hpp; sourceTree = "<group>"; };
@@ -184,6 +185,7 @@
 			isa = PBXGroup;
 			children = (
 				9D4302F52C2C34AD004E9BAF /* PrimeDates.hpp */,
+				9D4302FB2C2D948A004E9BAF /* ZigZagSequence.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    PrimeDates::test();
+    ZigZagSequence::test();
     return 0;
 }
