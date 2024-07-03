@@ -27,9 +27,10 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
-| XOR Strings | [C++](./HackerRank/Algorithms/Debugging/XORStrings.hpp) | Easy | - |
-| Smart Number | [C++](./HackerRank/Algorithms/Debugging/SmartNumber.hpp) | Easy | - |
+| Minimum Operations | [C++](./HackerRank/Algorithms/Debugging/Medium/MinimumOperations.hpp) | Medium | - |
 | Prime Dates | [C++](./HackerRank/Algorithms/Debugging/Medium/PrimeDates.hpp) | Medium | - |
+| Smart Number | [C++](./HackerRank/Algorithms/Debugging/SmartNumber.hpp) | Easy | - |
+| XOR Strings | [C++](./HackerRank/Algorithms/Debugging/XORStrings.hpp) | Easy | - |
 | Zig Zag Sequence | [C++](./HackerRank/Algorithms/Debugging/Medium/ZigZagSequence.hpp) | Medium | - |
 
 ## Game Theory

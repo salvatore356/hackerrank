@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    ZigZagSequence::test();
+    MinimumOperations::test();
     return 0;
 }

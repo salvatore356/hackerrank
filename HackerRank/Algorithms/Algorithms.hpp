@@ -20,6 +20,7 @@
 #include "Debugging/SmartNumber.hpp"
 #include "Debugging/XORStrings.hpp"
 
+#include "Debugging/Medium/MinimumOperations.hpp"
 #include "Debugging/Medium/PrimeDates.hpp"
 #include "Debugging/Medium/ZigZagSequence.hpp"
 
