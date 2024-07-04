@@ -63,56 +63,57 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
-| Two Characters | [C++](./HackerRank/Algorithms/Implementation/TwoCharacters.hpp) | Easy | - |
-| Strong Password | [C++](./HackerRank/Algorithms/Implementation/StrongPassword.hpp) | Easy | - |
-| Insertion Sort - Part 1 | [C++](./HackerRank/Algorithms/Implementation/InsertionSortPart1.hpp) | Easy | - |
-| Insertion Sort - Part 2 | [C++](./HackerRank/Algorithms/Implementation/InsertionSortPart2.hpp) | Easy | - |
-| CamelCase | [C++](./HackerRank/Algorithms/Implementation/CamelCase.hpp) | Easy | - |
-| Super Reduced String | [C++](./HackerRank/Algorithms/Implementation/SuperReducedString.hpp) | Easy | - |
-| Big Sorting | [C++](./HackerRank/Algorithms/Implementation/BigSorting.hpp) | Easy | - |
-| Strange Counter | [C++](./HackerRank/Algorithms/Implementation/StrangeCounter.hpp) | Easy | - |
-| Happy Ladybugs | [C++](./HackerRank/Algorithms/Implementation/HappyLadybugs.hpp) | Easy | - |
-| Manasa And Stones | [C++](./HackerRank/Algorithms/Implementation/ManasaAndStones.hpp) | Easy | - |
-| Cavity Map | [C++](./HackerRank/Algorithms/Implementation/CavityMap.hpp) | Easy | - |
-| Fair Rations | [C++](./HackerRank/Algorithms/Implementation/FairRations.hpp) | Easy | - |
-| Flatland Space Stations | [C++](./HackerRank/Algorithms/Implementation/FlatlandSpaceStations.hpp) | Easy | - |
-| Lisa's Workbook | [C++](./HackerRank/Algorithms/Implementation/LisasWorkbook.hpp) | Easy | - |
-| Service Lane | [C++](./HackerRank/Algorithms/Implementation/ServiceLane.hpp) | Easy | - |
-| Chocolate Feast | [C++](./HackerRank/Algorithms/Implementation/ChocolateFeast.hpp) | Easy | - |
-| Halloween Sale | [C++](./HackerRank/Algorithms/Implementation/HalloweenSale.hpp) | Easy | - |
-| Minimum Distances | [C++](./HackerRank/Algorithms/Implementation/MinimumDistances.hpp) | Easy | - |
-| Beautiful Triplets | [C++](./HackerRank/Algorithms/Implementation/BeautifulTriplets.hpp) | Easy | - |
-| Modified Kaprekar Numbers | [C++](./HackerRank/Algorithms/Implementation/ModifiedKaprekarNumbers.hpp) | Easy | - |
-| Taum And B'day | [C++](./HackerRank/Algorithms/Implementation/TaumAndBday.hpp) | Easy | - |
-| ACM ICPC Team | [C++](./HackerRank/Algorithms/Implementation/ACMICPCTeam.hpp) | Easy | - |
-| Append And Delete | [C++](./HackerRank/Algorithms/Implementation/AppendAndDelete.hpp) | Easy | - |
-| Angry Professor | [C++](./HackerRank/Algorithms/Implementation/AngryProfessor.hpp) | Easy | - |
-| Beautiful Days At The Movies | [C++](./HackerRank/Algorithms/Implementation/BeautifulDaysAtTheMovies.hpp) | Easy | - |
-| Circular Array Rotation | [C++](./HackerRank/Algorithms/Implementation/CircularArrayRotation.hpp) | Easy | - |
-| Designer PDF Viewer | [C++](./HackerRank/Algorithms/Implementation/DesignerPDFViewer.hpp) | Easy | - |
-| Equalize The Array | [C++](./HackerRank/Algorithms/Implementation/EqualizeTheArray.hpp) | Easy | - |
-| Find Digits | [C++](./HackerRank/Algorithms/Implementation/FindDigits.hpp) | Easy | - |
-| Jumping On The Clouds Revisited | [C++](./HackerRank/Algorithms/Implementation/JumpingOnTheCloudsRevisited.hpp) | Easy | - |
-| Library Fine | [C++](./HackerRank/Algorithms/Implementation/LibraryFine.hpp) | Easy | - |
-| Save The Prisioner | [C++](./HackerRank/Algorithms/Implementation/SaveThePrisioner.hpp) | Easy | - |
-| Sequence Equation | [C++](./HackerRank/Algorithms/Implementation/SequenceEquation.hpp) | Easy | - |
-| Sherlock And Squares | [C++](./HackerRank/Algorithms/Implementation/SherlockAndSquares.hpp) | Easy | - |
-| The Hurdle Race | [C++](./HackerRank/Algorithms/Implementation/TheHurdleRace.hpp) | Easy | - |
-| Utopian Tree | [C++](./HackerRank/Algorithms/Implementation/UtopianTree.hpp) | Easy | - |
-| Viral Advertising | [C++](./HackerRank/Algorithms/Implementation/ViralAdvertising.hpp) | Easy | - |
-| Forming a Magic Square | [C++](./HackerRank/Algorithms/Implementation/Medium/FormingAMagicSquare.hpp) | Medium | - |
-| Climbing the Leaderboard | [C++](./HackerRank/Algorithms/Implementation/Medium/ClimbingTheLeaderboard.hpp) | Medium | - |
-| Extra Long Factorials | [C++](./HackerRank/Algorithms/Implementation/Medium/ExtraLongFactorials.hpp) | Medium | - |
-| Non-Divisible Subset | [C++](./HackerRank/Algorithms/Implementation/Medium/NonDivisibleSubset.hpp) | Medium | - |
-| Queen's Attack II | [C++](./HackerRank/Algorithms/Implementation/Medium/QueensAttackII.hpp) | Medium | - |
-| Organizing Containers of Balls | [C++](./HackerRank/Algorithms/Implementation/Medium/OrganizingContainersOfBalls.hpp) | Medium | - |
-| Encryption | [C++](./HackerRank/Algorithms/Implementation/Medium/Encryption.hpp) | Medium | - |
-| Bigger is Greater | [C++](./HackerRank/Algorithms/Implementation/Medium/BiggerIsGreater.hpp) | Medium | - |
-| The Time in Words | [C++](./HackerRank/Algorithms/Implementation/Medium/TheTimeInWords.hpp) | Medium | - |
-| The Grid Search | [C++](./HackerRank/Algorithms/Implementation/Medium/TheGridSearch.hpp) | Medium | - |
 | 3D Surface Area | [C++](./HackerRank/Algorithms/Implementation/Medium/3DSurfaceArea.hpp) | Medium | - |
 | Absolute Permutation | [C++](./HackerRank/Algorithms/Implementation/Medium/AbsolutePermutation.hpp) | Medium | - |
+| ACM ICPC Team | [C++](./HackerRank/Algorithms/Implementation/ACMICPCTeam.hpp) | Easy | - |
+| Angry Professor | [C++](./HackerRank/Algorithms/Implementation/AngryProfessor.hpp) | Easy | - |
+| Append And Delete | [C++](./HackerRank/Algorithms/Implementation/AppendAndDelete.hpp) | Easy | - |
+| Beautiful Days At The Movies | [C++](./HackerRank/Algorithms/Implementation/BeautifulDaysAtTheMovies.hpp) | Easy | - |
+| Beautiful Triplets | [C++](./HackerRank/Algorithms/Implementation/BeautifulTriplets.hpp) | Easy | - |
+| Big Sorting | [C++](./HackerRank/Algorithms/Implementation/BigSorting.hpp) | Easy | - |
+| Bigger is Greater | [C++](./HackerRank/Algorithms/Implementation/Medium/BiggerIsGreater.hpp) | Medium | - |
+| CamelCase | [C++](./HackerRank/Algorithms/Implementation/CamelCase.hpp) | Easy | - |
+| Cavity Map | [C++](./HackerRank/Algorithms/Implementation/CavityMap.hpp) | Easy | - |
+| Chocolate Feast | [C++](./HackerRank/Algorithms/Implementation/ChocolateFeast.hpp) | Easy | - |
+| Circular Array Rotation | [C++](./HackerRank/Algorithms/Implementation/CircularArrayRotation.hpp) | Easy | - |
+| Climbing the Leaderboard | [C++](./HackerRank/Algorithms/Implementation/Medium/ClimbingTheLeaderboard.hpp) | Medium | - |
+| Designer PDF Viewer | [C++](./HackerRank/Algorithms/Implementation/DesignerPDFViewer.hpp) | Easy | - |
+| Ema's Supercomputer | [C++](./HackerRank/Algorithms/Implementation/Medium/EmasSupercomputer.hpp) | Medium | - |
+| Encryption | [C++](./HackerRank/Algorithms/Implementation/Medium/Encryption.hpp) | Medium | - |
+| Equalize The Array | [C++](./HackerRank/Algorithms/Implementation/EqualizeTheArray.hpp) | Easy | - |
+| Extra Long Factorials | [C++](./HackerRank/Algorithms/Implementation/Medium/ExtraLongFactorials.hpp) | Medium | - |
+| Fair Rations | [C++](./HackerRank/Algorithms/Implementation/FairRations.hpp) | Easy | - |
+| Find Digits | [C++](./HackerRank/Algorithms/Implementation/FindDigits.hpp) | Easy | - |
+| Flatland Space Stations | [C++](./HackerRank/Algorithms/Implementation/FlatlandSpaceStations.hpp) | Easy | - |
+| Forming a Magic Square | [C++](./HackerRank/Algorithms/Implementation/Medium/FormingAMagicSquare.hpp) | Medium | - |
+| Happy Ladybugs | [C++](./HackerRank/Algorithms/Implementation/HappyLadybugs.hpp) | Easy | - |
+| Halloween Sale | [C++](./HackerRank/Algorithms/Implementation/HalloweenSale.hpp) | Easy | - |
+| Insertion Sort - Part 1 | [C++](./HackerRank/Algorithms/Implementation/InsertionSortPart1.hpp) | Easy | - |
+| Insertion Sort - Part 2 | [C++](./HackerRank/Algorithms/Implementation/InsertionSortPart2.hpp) | Easy | - |
+| Jumping On The Clouds Revisited | [C++](./HackerRank/Algorithms/Implementation/JumpingOnTheCloudsRevisited.hpp) | Easy | - |
+| Library Fine | [C++](./HackerRank/Algorithms/Implementation/LibraryFine.hpp) | Easy | - |
+| Lisa's Workbook | [C++](./HackerRank/Algorithms/Implementation/LisasWorkbook.hpp) | Easy | - |
+| Manasa And Stones | [C++](./HackerRank/Algorithms/Implementation/ManasaAndStones.hpp) | Easy | - |
+| Minimum Distances | [C++](./HackerRank/Algorithms/Implementation/MinimumDistances.hpp) | Easy | - |
+| Modified Kaprekar Numbers | [C++](./HackerRank/Algorithms/Implementation/ModifiedKaprekarNumbers.hpp) | Easy | - |
+| Non-Divisible Subset | [C++](./HackerRank/Algorithms/Implementation/Medium/NonDivisibleSubset.hpp) | Medium | - |
+| Organizing Containers of Balls | [C++](./HackerRank/Algorithms/Implementation/Medium/OrganizingContainersOfBalls.hpp) | Medium | - |
+| Queen's Attack II | [C++](./HackerRank/Algorithms/Implementation/Medium/QueensAttackII.hpp) | Medium | - |
+| Save The Prisioner | [C++](./HackerRank/Algorithms/Implementation/SaveThePrisioner.hpp) | Easy | - |
+| Sequence Equation | [C++](./HackerRank/Algorithms/Implementation/SequenceEquation.hpp) | Easy | - |
+| Service Lane | [C++](./HackerRank/Algorithms/Implementation/ServiceLane.hpp) | Easy | - |
+| Sherlock And Squares | [C++](./HackerRank/Algorithms/Implementation/SherlockAndSquares.hpp) | Easy | - |
+| Strange Counter | [C++](./HackerRank/Algorithms/Implementation/StrangeCounter.hpp) | Easy | - |
+| Strong Password | [C++](./HackerRank/Algorithms/Implementation/StrongPassword.hpp) | Easy | - |
+| Super Reduced String | [C++](./HackerRank/Algorithms/Implementation/SuperReducedString.hpp) | Easy | - |
+| Taum And B'day | [C++](./HackerRank/Algorithms/Implementation/TaumAndBday.hpp) | Easy | - |
 | The Bomberman Game | [C++](./HackerRank/Algorithms/Implementation/Medium/TheBombermanGame.hpp) | Medium | - |
+| The Grid Search | [C++](./HackerRank/Algorithms/Implementation/Medium/TheGridSearch.hpp) | Medium | - |
+| The Hurdle Race | [C++](./HackerRank/Algorithms/Implementation/TheHurdleRace.hpp) | Easy | - |
+| The Time in Words | [C++](./HackerRank/Algorithms/Implementation/Medium/TheTimeInWords.hpp) | Medium | - |
+| Two Characters | [C++](./HackerRank/Algorithms/Implementation/TwoCharacters.hpp) | Easy | - |
+| Utopian Tree | [C++](./HackerRank/Algorithms/Implementation/UtopianTree.hpp) | Easy | - |
+| Viral Advertising | [C++](./HackerRank/Algorithms/Implementation/ViralAdvertising.hpp) | Easy | - |
 
 ## Search
 

@@ -46,6 +46,7 @@
 #include "Implementation/Medium/AbsolutePermutation.hpp"
 #include "Implementation/Medium/BiggerIsGreater.hpp"
 #include "Implementation/Medium/ClimbingTheLeaderboard.hpp"
+#include "Implementation/Medium/EmasSupercomputer.hpp"
 #include "Implementation/Medium/Encryption.hpp"
 #include "Implementation/Medium/ExtraLongFactorials.hpp"
 #include "Implementation/Medium/FormingAMagicSquare.hpp"

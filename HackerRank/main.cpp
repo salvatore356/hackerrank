@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    MinimumOperations::test();
+    EmasSupercomputer::test();
     return 0;
 }
