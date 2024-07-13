@@ -91,6 +91,7 @@ Happy coding!
 | Insertion Sort - Part 1 | [C++](./HackerRank/Algorithms/Implementation/InsertionSortPart1.hpp) | Easy | - |
 | Insertion Sort - Part 2 | [C++](./HackerRank/Algorithms/Implementation/InsertionSortPart2.hpp) | Easy | - |
 | Jumping On The Clouds Revisited | [C++](./HackerRank/Algorithms/Implementation/JumpingOnTheCloudsRevisited.hpp) | Easy | - |
+| Larry's Array | [C++](./HackerRank/Algorithms/Implementation/Medium/LarrysArray.hpp) | Medium | - |
 | Library Fine | [C++](./HackerRank/Algorithms/Implementation/LibraryFine.hpp) | Easy | - |
 | Lisa's Workbook | [C++](./HackerRank/Algorithms/Implementation/LisasWorkbook.hpp) | Easy | - |
 | Manasa And Stones | [C++](./HackerRank/Algorithms/Implementation/ManasaAndStones.hpp) | Easy | - |

@@ -46,6 +46,7 @@
 		9D1EEE8C2BD99B6600098259 /* CavityMap.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CavityMap.hpp; sourceTree = "<group>"; };
 		9D1EEEA62BDAC64300098259 /* ManasaAndStones.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ManasaAndStones.hpp; sourceTree = "<group>"; };
 		9D1EEEA92BDACB6500098259 /* HappyLadybugs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HappyLadybugs.hpp; sourceTree = "<group>"; };
+		9D2D80092C42784A005A1613 /* LarrysArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LarrysArray.hpp; sourceTree = "<group>"; };
 		9D365D812BC3F5B200B0CD22 /* EqualizeTheArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = EqualizeTheArray.hpp; sourceTree = "<group>"; };
 		9D4302EB2C2ACDEA004E9BAF /* TheBombermanGame.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TheBombermanGame.hpp; sourceTree = "<group>"; };
 		9D4302F52C2C34AD004E9BAF /* PrimeDates.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PrimeDates.hpp; sourceTree = "<group>"; };
@@ -318,6 +319,7 @@
 				9D1520DB2C22F75200F7941E /* AbsolutePermutation.hpp */,
 				9D4302EB2C2ACDEA004E9BAF /* TheBombermanGame.hpp */,
 				9D4303112C36BD8D004E9BAF /* EmasSupercomputer.hpp */,
+				9D2D80092C42784A005A1613 /* LarrysArray.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

@@ -50,6 +50,7 @@
 #include "Implementation/Medium/Encryption.hpp"
 #include "Implementation/Medium/ExtraLongFactorials.hpp"
 #include "Implementation/Medium/FormingAMagicSquare.hpp"
+#include "Implementation/Medium/LarrysArray.hpp"
 #include "Implementation/Medium/NonDivisibleSubset.hpp"
 #include "Implementation/Medium/OrganizingContainersOfBalls.hpp"
 #include "Implementation/Medium/QueensAttackII.hpp"

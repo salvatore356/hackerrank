@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    EmasSupercomputer::test();
+    LarrysArray::test();
     return 0;
 }
