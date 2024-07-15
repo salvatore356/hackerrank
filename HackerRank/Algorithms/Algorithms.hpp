@@ -44,6 +44,7 @@
 
 #include "Implementation/Medium/3DSurfaceArea.hpp"
 #include "Implementation/Medium/AbsolutePermutation.hpp"
+#include "Implementation/Medium/AlmostSorted.hpp"
 #include "Implementation/Medium/BiggerIsGreater.hpp"
 #include "Implementation/Medium/ClimbingTheLeaderboard.hpp"
 #include "Implementation/Medium/EmasSupercomputer.hpp"

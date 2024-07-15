@@ -66,6 +66,7 @@ Happy coding!
 | 3D Surface Area | [C++](./HackerRank/Algorithms/Implementation/Medium/3DSurfaceArea.hpp) | Medium | - |
 | Absolute Permutation | [C++](./HackerRank/Algorithms/Implementation/Medium/AbsolutePermutation.hpp) | Medium | - |
 | ACM ICPC Team | [C++](./HackerRank/Algorithms/Implementation/ACMICPCTeam.hpp) | Easy | - |
+| Almost Sorted | [C++](./HackerRank/Algorithms/Implementation/Medium/AlmostSorted.hpp) | Medium | - |
 | Angry Professor | [C++](./HackerRank/Algorithms/Implementation/AngryProfessor.hpp) | Easy | - |
 | Append And Delete | [C++](./HackerRank/Algorithms/Implementation/AppendAndDelete.hpp) | Easy | - |
 | Beautiful Days At The Movies | [C++](./HackerRank/Algorithms/Implementation/BeautifulDaysAtTheMovies.hpp) | Easy | - |

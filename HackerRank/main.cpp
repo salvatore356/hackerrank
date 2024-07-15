@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    LarrysArray::test();
+    AlmostSorted::test();
     return 0;
 }

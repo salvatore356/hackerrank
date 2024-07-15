@@ -54,6 +54,7 @@
 		9D43030B2C35425B004E9BAF /* MinimumOperations.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MinimumOperations.hpp; sourceTree = "<group>"; };
 		9D4303112C36BD8D004E9BAF /* EmasSupercomputer.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = EmasSupercomputer.hpp; sourceTree = "<group>"; };
 		9D5CE30D2C1C440500D8BA78 /* TheTimeInWords.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TheTimeInWords.hpp; sourceTree = "<group>"; };
+		9D609A1B2C451CB400CC1B42 /* AlmostSorted.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AlmostSorted.hpp; sourceTree = "<group>"; };
 		9D626C182BD983700049991E /* LisasWorkbook.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LisasWorkbook.hpp; sourceTree = "<group>"; };
 		9D626C1B2BD9884E0049991E /* FlatlandSpaceStations.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FlatlandSpaceStations.hpp; sourceTree = "<group>"; };
 		9D626C1E2BD991AE0049991E /* FairRations.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FairRations.hpp; sourceTree = "<group>"; };
@@ -320,6 +321,7 @@
 				9D4302EB2C2ACDEA004E9BAF /* TheBombermanGame.hpp */,
 				9D4303112C36BD8D004E9BAF /* EmasSupercomputer.hpp */,
 				9D2D80092C42784A005A1613 /* LarrysArray.hpp */,
+				9D609A1B2C451CB400CC1B42 /* AlmostSorted.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
