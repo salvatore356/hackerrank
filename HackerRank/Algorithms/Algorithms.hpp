@@ -100,6 +100,8 @@
 #include "Sorting/Quicksort1Partition.hpp"
 #include "Sorting/RunningTimeOfAlgorithms.hpp"
 
+#include "Sorting/Medium/TheFullCountingSort.hpp"
+
 #include "Strings/Anagram.hpp"
 #include "Strings/BeautifulBinaryString.hpp"
 #include "Strings/CaesarCipher.hpp"

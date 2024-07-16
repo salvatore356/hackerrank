@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    AlmostSorted::test();
+    TheFullCountingSort::test();
     return 0;
 }
