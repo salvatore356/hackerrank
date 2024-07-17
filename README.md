@@ -137,7 +137,7 @@ Happy coding!
 | Lily's Homework | [C++](./HackerRank/Algorithms/Sorting/Medium/LilysHomework.hpp) | Medium | - |
 | Quicksort 1 - Partition | [C++](./HackerRank/Algorithms/Sorting/Quicksort1Partition.hpp) | Easy | - |
 | Running Time Of Algorithms | [C++](./HackerRank/Algorithms/Sorting/RunningTimeOfAlgorithms.hpp) | Easy | - |
-| The Full Counting Sort | [C++](./HackerRank/Algorithms/Sorting/Medium/TheFullCountingSort.hpp) | Easy | - |
+| The Full Counting Sort | [C++](./HackerRank/Algorithms/Sorting/Medium/TheFullCountingSort.hpp) | Medium | - |
 
 ## Strings
 
