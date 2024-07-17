@@ -134,6 +134,7 @@ Happy coding!
 | Counting Sort 1 | [C++](./HackerRank/Algorithms/Sorting/CountingSort1.hpp) | Easy | - |
 | Counting Sort 2 | [C++](./HackerRank/Algorithms/Sorting/CountingSort2.hpp) | Easy | - |
 | Find The Median | [C++](./HackerRank/Algorithms/Sorting/FindTheMedian.hpp) | Easy | - |
+| Lily's Homework | [C++](./HackerRank/Algorithms/Sorting/Medium/LilysHomework.hpp) | Medium | - |
 | Quicksort 1 - Partition | [C++](./HackerRank/Algorithms/Sorting/Quicksort1Partition.hpp) | Easy | - |
 | Running Time Of Algorithms | [C++](./HackerRank/Algorithms/Sorting/RunningTimeOfAlgorithms.hpp) | Easy | - |
 | The Full Counting Sort | [C++](./HackerRank/Algorithms/Sorting/Medium/TheFullCountingSort.hpp) | Easy | - |

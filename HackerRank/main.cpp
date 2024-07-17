@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    TheFullCountingSort::test();
+    LilysHomework::test();
     return 0;
 }
