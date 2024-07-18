@@ -119,4 +119,6 @@
 #include "Strings/TheLoveLetterMystery.hpp"
 #include "Strings/WeightedUniformStrings.hpp"
 
+#include "Strings/Medium/HighestValuePalindrome.hpp"
+
 #endif /* Algorithms_hpp */

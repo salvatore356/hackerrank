@@ -143,21 +143,22 @@ Happy coding!
 
 | Title | Solution | Difficulty | Elaboration |
 | ----- | -------- | ---------- | ----------- |
-| Caesar Cipher | [C++](./HackerRank/Algorithms/Strings/CaesarCipher.hpp) | Easy | - |
-| Mars Exploration | [C++](./HackerRank/Algorithms/Strings/MarsExploration.hpp) | Easy | - |
-| HackerRank in a String! | [C++](./HackerRank/Algorithms/Strings/HackerRankInAString.hpp) | Easy | - |
-| Pangrams | [C++](./HackerRank/Algorithms/Strings/Pangrams.hpp) | Easy | - |
-| Weighted Uniform Strings | [C++](./HackerRank/Algorithms/Strings/WeightedUniformStrings.hpp) | Easy | - |
-| Separate the Numbers | [C++](./HackerRank/Algorithms/Strings/SeparateTheNumbers.hpp) | Easy | - |
-| Funny String | [C++](./HackerRank/Algorithms/Strings/FunnyString.hpp) | Easy | - |
-| Gemstones | [C++](./HackerRank/Algorithms/Strings/Gemstones.hpp) | Easy | - |
-| Beautiful Binary String | [C++](./HackerRank/Algorithms/Strings/BeautifulBinaryString.hpp) | Easy | - |
-| The Love-Letter Mystery | [C++](./HackerRank/Algorithms/Strings/TheLoveLetterMystery.hpp) | Easy | - |
-| Palindrome Index | [C++](./HackerRank/Algorithms/Strings/PalindromeIndex.hpp) | Easy | - |
 | Anagram | [C++](./HackerRank/Algorithms/Strings/Anagram.hpp) | Easy | - |
-| Making Anagrams | [C++](./HackerRank/Algorithms/Strings/MakingAnagrams.hpp) | Easy | - |
+| Beautiful Binary String | [C++](./HackerRank/Algorithms/Strings/BeautifulBinaryString.hpp) | Easy | - |
+| Caesar Cipher | [C++](./HackerRank/Algorithms/Strings/CaesarCipher.hpp) | Easy | - |
+| Funny String | [C++](./HackerRank/Algorithms/Strings/FunnyString.hpp) | Easy | - |
 | Game of Thrones - I | [C++](./HackerRank/Algorithms/Strings/GameOfThronesI.hpp) | Easy | - |
+| Gemstones | [C++](./HackerRank/Algorithms/Strings/Gemstones.hpp) | Easy | - |
+| HackerRank in a String! | [C++](./HackerRank/Algorithms/Strings/HackerRankInAString.hpp) | Easy | - |
+| Highest Value Palindrome | [C++](./HackerRank/Algorithms/Strings/Medium/HighestValuePalindrome.hpp) | Medium | - |
+| Making Anagrams | [C++](./HackerRank/Algorithms/Strings/MakingAnagrams.hpp) | Easy | - |
+| Mars Exploration | [C++](./HackerRank/Algorithms/Strings/MarsExploration.hpp) | Easy | - |
+| Palindrome Index | [C++](./HackerRank/Algorithms/Strings/PalindromeIndex.hpp) | Easy | - |
+| Pangrams | [C++](./HackerRank/Algorithms/Strings/Pangrams.hpp) | Easy | - |
+| Separate the Numbers | [C++](./HackerRank/Algorithms/Strings/SeparateTheNumbers.hpp) | Easy | - |
 | String Construction | [C++](./HackerRank/Algorithms/Strings/StringConstruction.hpp) | Easy | - |
+| The Love-Letter Mystery | [C++](./HackerRank/Algorithms/Strings/TheLoveLetterMystery.hpp) | Easy | - |
+| Weighted Uniform Strings | [C++](./HackerRank/Algorithms/Strings/WeightedUniformStrings.hpp) | Easy | - |
 
 ## Warmup
 

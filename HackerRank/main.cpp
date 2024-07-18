@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    LilysHomework::test();
+    HighestValuePalindrome::test();
     return 0;
 }

@@ -57,6 +57,7 @@
 		9D609A1B2C451CB400CC1B42 /* AlmostSorted.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AlmostSorted.hpp; sourceTree = "<group>"; };
 		9D609A262C4671D400CC1B42 /* TheFullCountingSort.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TheFullCountingSort.hpp; sourceTree = "<group>"; };
 		9D609A6D2C47D0F900CC1B42 /* LilysHomework.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LilysHomework.hpp; sourceTree = "<group>"; };
+		9D609A742C48FEAE00CC1B42 /* HighestValuePalindrome.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HighestValuePalindrome.hpp; sourceTree = "<group>"; };
 		9D626C182BD983700049991E /* LisasWorkbook.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LisasWorkbook.hpp; sourceTree = "<group>"; };
 		9D626C1B2BD9884E0049991E /* FlatlandSpaceStations.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FlatlandSpaceStations.hpp; sourceTree = "<group>"; };
 		9D626C1E2BD991AE0049991E /* FairRations.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FairRations.hpp; sourceTree = "<group>"; };
@@ -206,6 +207,14 @@
 			path = Medium;
 			sourceTree = "<group>";
 		};
+		9D609A722C48FEA200CC1B42 /* Medium */ = {
+			isa = PBXGroup;
+			children = (
+				9D609A742C48FEAE00CC1B42 /* HighestValuePalindrome.hpp */,
+			);
+			path = Medium;
+			sourceTree = "<group>";
+		};
 		9D965FC22BE2AC6C00C2BB46 /* ProjectEuler+ */ = {
 			isa = PBXGroup;
 			children = (
@@ -243,6 +252,7 @@
 		9D965FEE2BE8F44700C2BB46 /* Strings */ = {
 			isa = PBXGroup;
 			children = (
+				9D609A722C48FEA200CC1B42 /* Medium */,
 				9D965FF02BE8F45400C2BB46 /* CaesarCipher.hpp */,
 				9D965FFE2BEA2AD200C2BB46 /* MarsExploration.hpp */,
 				9DBDAA202BEB852100CC6232 /* HackerRankInAString.hpp */,
