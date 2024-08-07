@@ -145,6 +145,7 @@ Happy coding!
 | ----- | -------- | ---------- | ----------- |
 | Anagram | [C++](./HackerRank/Algorithms/Strings/Anagram.hpp) | Easy | - |
 | Beautiful Binary String | [C++](./HackerRank/Algorithms/Strings/BeautifulBinaryString.hpp) | Easy | - |
+| Bear And Steady Gene | [C++](./HackerRank/Algorithms/Strings/Medium/BearAndSteadyGene.hpp) | Medium | - |
 | Caesar Cipher | [C++](./HackerRank/Algorithms/Strings/CaesarCipher.hpp) | Easy | - |
 | Funny String | [C++](./HackerRank/Algorithms/Strings/FunnyString.hpp) | Easy | - |
 | Game of Thrones - I | [C++](./HackerRank/Algorithms/Strings/GameOfThronesI.hpp) | Easy | - |

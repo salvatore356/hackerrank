@@ -62,6 +62,7 @@
 		9D626C182BD983700049991E /* LisasWorkbook.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LisasWorkbook.hpp; sourceTree = "<group>"; };
 		9D626C1B2BD9884E0049991E /* FlatlandSpaceStations.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FlatlandSpaceStations.hpp; sourceTree = "<group>"; };
 		9D626C1E2BD991AE0049991E /* FairRations.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FairRations.hpp; sourceTree = "<group>"; };
+		9D64355D2C637D4F00ED4B98 /* BearAndSteadyGene.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BearAndSteadyGene.hpp; sourceTree = "<group>"; };
 		9D7FCC8A2BF4A7F9001EB1BF /* TheLoveLetterMystery.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TheLoveLetterMystery.hpp; sourceTree = "<group>"; };
 		9D7FCC8D2BF4AA4F001EB1BF /* ClosestNumbers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ClosestNumbers.hpp; sourceTree = "<group>"; };
 		9D7FCC902BF4AE34001EB1BF /* SmallestMultiple.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SmallestMultiple.hpp; sourceTree = "<group>"; };
@@ -213,6 +214,7 @@
 			children = (
 				9D609A742C48FEAE00CC1B42 /* HighestValuePalindrome.hpp */,
 				9D03CF462C4A64310049EF11 /* MaximumPalindromes.hpp */,
+				9D64355D2C637D4F00ED4B98 /* BearAndSteadyGene.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

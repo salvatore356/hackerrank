@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    MaximumPalindromes::test();
+    BearAndSteadyGene::test();
     return 0;
 }

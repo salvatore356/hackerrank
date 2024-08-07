@@ -13,10 +13,10 @@
 namespace HighestValuePalindrome {
 
     string highestValuePalindrome(string s, int n, int k) {
-        int mid = s.size() / 2;
+        int mid = (int)s.size() / 2;
         
         vector<int> diff;
-        int index = s.size() - 1;
+        int index = (int)s.size() - 1;
         
         for (int i = 0; i < mid; ++i)
             if (s[i] != s[index - i])

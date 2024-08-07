@@ -119,6 +119,7 @@
 #include "Strings/TheLoveLetterMystery.hpp"
 #include "Strings/WeightedUniformStrings.hpp"
 
+#include "Strings/Medium/BearAndSteadyGene.hpp"
 #include "Strings/Medium/HighestValuePalindrome.hpp"
 #include "Strings/Medium/MaximumPalindromes.hpp"
 
