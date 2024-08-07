@@ -153,6 +153,7 @@ Happy coding!
 | Highest Value Palindrome | [C++](./HackerRank/Algorithms/Strings/Medium/HighestValuePalindrome.hpp) | Medium | - |
 | Making Anagrams | [C++](./HackerRank/Algorithms/Strings/MakingAnagrams.hpp) | Easy | - |
 | Mars Exploration | [C++](./HackerRank/Algorithms/Strings/MarsExploration.hpp) | Easy | - |
+| Maximum Palindromes | [C++](./HackerRank/Algorithms/Strings/Medium/MaximumPalindromes.hpp) | Medium | - |
 | Palindrome Index | [C++](./HackerRank/Algorithms/Strings/PalindromeIndex.hpp) | Easy | - |
 | Pangrams | [C++](./HackerRank/Algorithms/Strings/Pangrams.hpp) | Easy | - |
 | Separate the Numbers | [C++](./HackerRank/Algorithms/Strings/SeparateTheNumbers.hpp) | Easy | - |

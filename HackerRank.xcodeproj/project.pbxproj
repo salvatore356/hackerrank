@@ -31,6 +31,7 @@
 		9D033DC12C05E8DE00005908 /* PermutingTwoArrays.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PermutingTwoArrays.hpp; sourceTree = "<group>"; };
 		9D033DD02C072A2600005908 /* LonelyInteger.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LonelyInteger.hpp; sourceTree = "<group>"; };
 		9D033DD32C072C3C00005908 /* MaximizingXOR.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MaximizingXOR.hpp; sourceTree = "<group>"; };
+		9D03CF462C4A64310049EF11 /* MaximumPalindromes.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MaximumPalindromes.hpp; sourceTree = "<group>"; };
 		9D151FEF2C20489C00F7941E /* TheGridSearch.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TheGridSearch.hpp; sourceTree = "<group>"; };
 		9D1520D12C2199E700F7941E /* 3DSurfaceArea.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 3DSurfaceArea.hpp; sourceTree = "<group>"; };
 		9D1520DB2C22F75200F7941E /* AbsolutePermutation.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AbsolutePermutation.hpp; sourceTree = "<group>"; };
@@ -211,6 +212,7 @@
 			isa = PBXGroup;
 			children = (
 				9D609A742C48FEAE00CC1B42 /* HighestValuePalindrome.hpp */,
+				9D03CF462C4A64310049EF11 /* MaximumPalindromes.hpp */,
 			);
 			path = Medium;
 			sourceTree = "<group>";

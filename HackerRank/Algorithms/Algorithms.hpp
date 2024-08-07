@@ -120,5 +120,6 @@
 #include "Strings/WeightedUniformStrings.hpp"
 
 #include "Strings/Medium/HighestValuePalindrome.hpp"
+#include "Strings/Medium/MaximumPalindromes.hpp"
 
 #endif /* Algorithms_hpp */

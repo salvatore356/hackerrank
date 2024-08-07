@@ -11,6 +11,6 @@
 
 
 int main(int argc, const char * argv[]) {
-    HighestValuePalindrome::test();
+    MaximumPalindromes::test();
     return 0;
 }
